@@ -2,7 +2,9 @@ window.OFFICIAL_MARKET_SNAPSHOT={
   "fetchedAt": "2026-06-02 19:21:23 +09:00",
   "total": 642,
   "count": 642,
-  "source": "Steam Community Market"
+  "source": "Steam Community Market",
+  "priceCurrency": "JPY",
+  "priceNote": "Search API prices cleared; run scripts/update-official-market-prices.mjs to fetch JPY lowest prices."
 };
 window.OFFICIAL_MARKET_ITEMS=[
   {
@@ -10,7 +12,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Amber Gem",
     "type": "Decoration Material",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTEw9yUekzqKcHy_IhoYK",
-    "price": "$0.06",
+    "price": "None",
     "listings": 844
   },
   {
@@ -18,7 +20,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Amber Ring (Arcana) A",
     "type": "Ring - Lv. 30",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJhES9dKS088yUenzqKcH1K5IKZS",
-    "price": "$4.76",
+    "price": "None",
     "listings": 9
   },
   {
@@ -26,7 +28,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Amber Ring (Immortal) A",
     "type": "Ring - Lv. 30",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJhES9dKS088yUenzqKcH1K5IKZS",
-    "price": "$2.67",
+    "price": "None",
     "listings": 12
   },
   {
@@ -34,7 +36,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Amber Ring (Legendary) A",
     "type": "Ring - Lv. 30",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJhES9dKS088yUenzqKcH1K5IKZS",
-    "price": "$0.92",
+    "price": "None",
     "listings": 26
   },
   {
@@ -42,7 +44,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Amethyst",
     "type": "Decoration Material",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTEw-yUelzqKcH7ua2ZYv",
-    "price": "$0.26",
+    "price": "None",
     "listings": 605
   },
   {
@@ -50,7 +52,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Amethyst Ring (Arcana) A",
     "type": "Ring - Lv. 40",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJhES9dKS088yUepzqKcH-aAVkoC",
-    "price": "$5.54",
+    "price": "None",
     "listings": 4
   },
   {
@@ -58,7 +60,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Amethyst Ring (Immortal) A",
     "type": "Ring - Lv. 40",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJhES9dKS088yUepzqKcH-aAVkoC",
-    "price": "$2.20",
+    "price": "None",
     "listings": 23
   },
   {
@@ -66,7 +68,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Amethyst Ring (Legendary) A",
     "type": "Ring - Lv. 40",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJhES9dKS088yUepzqKcH-aAVkoC",
-    "price": "$1.66",
+    "price": "None",
     "listings": 14
   },
   {
@@ -74,7 +76,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Ancient Orb (Arcana) A",
     "type": "Orb - Lv. 65",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIVfR88hT008yEO-kLyVTBNejeo",
-    "price": "$5.54",
+    "price": "None",
     "listings": 1
   },
   {
@@ -82,7 +84,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Ancient Orb (Immortal) A",
     "type": "Orb - Lv. 65",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIVfR88hT008yEO-kLyVTBNejeo",
-    "price": "$0.95",
+    "price": "None",
     "listings": 7
   },
   {
@@ -90,7 +92,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Ancient Orb (Legendary) A",
     "type": "Orb - Lv. 65",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIVfR88hT008yEO-kLyVTBNejeo",
-    "price": "$0.55",
+    "price": "None",
     "listings": 18
   },
   {
@@ -98,7 +100,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Ancient Tree Sap",
     "type": "Engraving Material",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTE8-yUekzqKcH2dPS41m",
-    "price": "$0.07",
+    "price": "None",
     "listings": 41
   },
   {
@@ -106,7 +108,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Arcane Crystal",
     "type": "Decoration Material",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTEw5yUehzqKcH-cvMR9w",
-    "price": "$0.58",
+    "price": "None",
     "listings": 435
   },
   {
@@ -114,7 +116,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Arcane Orb (Arcana) A",
     "type": "Orb - Lv. 40",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIVfR88hT008yU6-kLyV74qLg9Q",
-    "price": "$2.69",
+    "price": "None",
     "listings": 14
   },
   {
@@ -122,7 +124,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Arcane Orb (Immortal) A",
     "type": "Orb - Lv. 40",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIVfR88hT008yU6-kLyV74qLg9Q",
-    "price": "$0.55",
+    "price": "None",
     "listings": 24
   },
   {
@@ -130,7 +132,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Arcane Orb (Legendary) A",
     "type": "Orb - Lv. 40",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIVfR88hT008yU6-kLyV74qLg9Q",
-    "price": "$0.15",
+    "price": "None",
     "listings": 46
   },
   {
@@ -138,7 +140,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Arcane Ore",
     "type": "Crafting Material",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTEk5yUeizqKcH0-PzwLX",
-    "price": "$0.38",
+    "price": "None",
     "listings": 454
   },
   {
@@ -146,7 +148,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Astral Diamond",
     "type": "Decoration Material",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTEw6yUeizqKcH5PFUVdJ",
-    "price": "$6.29",
+    "price": "None",
     "listings": 48
   },
   {
@@ -154,7 +156,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Azure Arrow (Arcana) A",
     "type": "Arrow - Lv. 20",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItfV99CIkk9yUeg1fyCFvFfpxKh7A",
-    "price": "$7.39",
+    "price": "None",
     "listings": 4
   },
   {
@@ -162,7 +164,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Azure Arrow (Immortal) A",
     "type": "Arrow - Lv. 20",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItfV99CIkk9yUeg1fyCFvFfpxKh7A",
-    "price": "$2.20",
+    "price": "None",
     "listings": 32
   },
   {
@@ -170,7 +172,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Azure Arrow (Legendary) A",
     "type": "Arrow - Lv. 20",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItfV99CIkk9yUeg1fyCFvFfpxKh7A",
-    "price": "$0.59",
+    "price": "None",
     "listings": 33
   },
   {
@@ -178,7 +180,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Azure Staff (Arcana) A",
     "type": "Staff - Lv. 20",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlZRNZTIk4-yUeg1fyCFvGu9-QAoA",
-    "price": "$2.62",
+    "price": "None",
     "listings": 9
   },
   {
@@ -186,7 +188,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Azure Staff (Immortal) A",
     "type": "Staff - Lv. 20",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlZRNZTIk4-yUeg1fyCFvGu9-QAoA",
-    "price": "$0.42",
+    "price": "None",
     "listings": 89
   },
   {
@@ -194,7 +196,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Azure Staff (Legendary) A",
     "type": "Staff - Lv. 20",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlZRNZTIk4-yUeg1fyCFvGu9-QAoA",
-    "price": "$0.09",
+    "price": "None",
     "listings": 223
   },
   {
@@ -202,7 +204,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Barbed Arrow (Arcana) A",
     "type": "Arrow - Lv. 15",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItfV99CIkk9yUeg1PyCFvHJm9yN-w",
-    "price": "$5.54",
+    "price": "None",
     "listings": 7
   },
   {
@@ -210,7 +212,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Barbed Arrow (Immortal) A",
     "type": "Arrow - Lv. 15",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItfV99CIkk9yUeg1PyCFvHJm9yN-w",
-    "price": "$1.24",
+    "price": "None",
     "listings": 30
   },
   {
@@ -218,7 +220,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Barbed Arrow (Legendary) A",
     "type": "Arrow - Lv. 15",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItfV99CIkk9yUeg1PyCFvHJm9yN-w",
-    "price": "$0.50",
+    "price": "None",
     "listings": 73
   },
   {
@@ -226,7 +228,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Barbed Bolt (Legendary) A",
     "type": "Bolt - Lv. 15",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhCScRKSUk8yUekzqKcH9foyV-o",
-    "price": "$3.05",
+    "price": "None",
     "listings": 2
   },
   {
@@ -234,7 +236,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Basilisk Scale",
     "type": "Engraving Material",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTE84yUehzqKcH8PGKm7G",
-    "price": "$0.61",
+    "price": "None",
     "listings": 287
   },
   {
@@ -242,7 +244,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Bastard Sword (Arcana) A",
     "type": "Sword - Lv. 15",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlaSsJRIk48yUeg1PyCFvEcxA7LDg",
-    "price": "$1.18",
+    "price": "None",
     "listings": 13
   },
   {
@@ -250,7 +252,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Bastard Sword (Immortal) A",
     "type": "Sword - Lv. 15",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlaSsJRIk48yUeg1PyCFvEcxA7LDg",
-    "price": "$0.23",
+    "price": "None",
     "listings": 117
   },
   {
@@ -258,7 +260,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Bastard Sword (Legendary) A",
     "type": "Sword - Lv. 15",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlaSsJRIk48yUeg1PyCFvEcxA7LDg",
-    "price": "$0.06",
+    "price": "None",
     "listings": 331
   },
   {
@@ -266,7 +268,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Bat Wing Membrane",
     "type": "Engraving Material",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTE8-yUehzqKcH7WRrVMn",
-    "price": "$0.07",
+    "price": "None",
     "listings": 332
   },
   {
@@ -274,7 +276,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Battle Axe (Immortal) A",
     "type": "Axe - Lv. 10",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItVQM8mSE08yUS-kLyVOsK1TWw",
-    "price": "$1.20",
+    "price": "None",
     "listings": 24
   },
   {
@@ -282,7 +284,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Battle Axe (Legendary) A",
     "type": "Axe - Lv. 10",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItVQM8mSE08yUS-kLyVOsK1TWw",
-    "price": "$0.15",
+    "price": "None",
     "listings": 23
   },
   {
@@ -290,7 +292,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Battle Hatchet (Immortal) A",
     "type": "Hatchet - Lv. 30",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIJMUdNdOClTzUKg0OLFVuZeP30rP9t9",
-    "price": "$2.04",
+    "price": "None",
     "listings": 4
   },
   {
@@ -298,7 +300,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Battle Hatchet (Legendary) A",
     "type": "Hatchet - Lv. 30",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIJMUdNdOClTzUKg0OLFVuZeP30rP9t9",
-    "price": "$1.20",
+    "price": "None",
     "listings": 3
   },
   {
@@ -306,7 +308,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Beast Bolt (Arcana) A",
     "type": "Bolt - Lv. 20",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhCScRKSUk8yUelzqKcHwaOvJtl",
-    "price": "$5.54",
+    "price": "None",
     "listings": 2
   },
   {
@@ -314,7 +316,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Beast Bolt (Immortal) A",
     "type": "Bolt - Lv. 20",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhCScRKSUk8yUelzqKcHwaOvJtl",
-    "price": "$10.51",
+    "price": "None",
     "listings": 2
   },
   {
@@ -322,7 +324,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Beast Bolt (Legendary) A",
     "type": "Bolt - Lv. 20",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhCScRKSUk8yUelzqKcHwaOvJtl",
-    "price": "$3.06",
+    "price": "None",
     "listings": 5
   },
   {
@@ -330,7 +332,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Black Pearl",
     "type": "Decoration Material",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTEw4yUekzqKcH990Y8xz",
-    "price": "$0.09",
+    "price": "None",
     "listings": 612
   },
   {
@@ -338,7 +340,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Blessed Scepter (Immortal) A",
     "type": "Scepter - Lv. 10",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlOQMBBOC9TykSg0OLBVuZeP82585JP",
-    "price": "$0.23",
+    "price": "None",
     "listings": 109
   },
   {
@@ -346,7 +348,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Blessed Scepter (Legendary) A",
     "type": "Scepter - Lv. 10",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlOQMBBOC9TykSg0OLBVuZeP82585JP",
-    "price": "$0.06",
+    "price": "None",
     "listings": 337
   },
   {
@@ -354,7 +356,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Blessed Tome (Arcana) A",
     "type": "Tome - Lv. 20",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJ5CSNVKSU48yUelzqKcH-zA_Kwc",
-    "price": "$10.12",
+    "price": "None",
     "listings": 2
   },
   {
@@ -362,7 +364,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Blessed Tome (Immortal) A",
     "type": "Tome - Lv. 20",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJ5CSNVKSU48yUelzqKcH-zA_Kwc",
-    "price": "$1.90",
+    "price": "None",
     "listings": 25
   },
   {
@@ -370,7 +372,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Blessed Tome (Legendary) A",
     "type": "Tome - Lv. 20",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJ5CSNVKSU48yUelzqKcH-zA_Kwc",
-    "price": "$1.04",
+    "price": "None",
     "listings": 32
   },
   {
@@ -378,7 +380,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Bloodstone",
     "type": "Crafting Material",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTEk4yUehzqKcHxmOrOzz",
-    "price": "$0.12",
+    "price": "None",
     "listings": 292
   },
   {
@@ -386,7 +388,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Brilliant Orb (Immortal) A",
     "type": "Orb - Lv. 10",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIVfR88hT008yUS-kLyVxJLGmN0",
-    "price": "$0.50",
+    "price": "None",
     "listings": 69
   },
   {
@@ -394,7 +396,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Brilliant Orb (Legendary) A",
     "type": "Orb - Lv. 10",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIVfR88hT008yUS-kLyVxJLGmN0",
-    "price": "$0.16",
+    "price": "None",
     "listings": 93
   },
   {
@@ -402,7 +404,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Bronze Amulet (Immortal) A",
     "type": "Amulet - Lv. 5",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItAUNxQKSI6yUeg0ODcCPhXltzM3Rc",
-    "price": "$2.77",
+    "price": "None",
     "listings": 1
   },
   {
@@ -410,7 +412,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Bronze Amulet (Legendary) A",
     "type": "Amulet - Lv. 5",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItAUNxQKSI6yUeg0ODcCPhXltzM3Rc",
-    "price": "$2.64",
+    "price": "None",
     "listings": 5
   },
   {
@@ -418,7 +420,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Bronze Bracer (Immortal) A",
     "type": "Bracer - Lv. 5",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhfRNNQLyI6ykeg0ODcCPhXgbFgpu8",
-    "price": "$2.44",
+    "price": "None",
     "listings": 8
   },
   {
@@ -426,7 +428,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Bronze Bracer (Legendary) A",
     "type": "Bracer - Lv. 5",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhfRNNQLyI6ykeg0ODcCPhXgbFgpu8",
-    "price": "$0.64",
+    "price": "None",
     "listings": 10
   },
   {
@@ -434,7 +436,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Bronze Earring (Immortal) A",
     "type": "Earing - Lv. 5",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsI9MV9lbOiI6yEeg0ODcCPhXbJz3x8E",
-    "price": "$1.24",
+    "price": "None",
     "listings": 8
   },
   {
@@ -442,7 +444,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Bronze Earring (Legendary) A",
     "type": "Earing - Lv. 5",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsI9MV9lbOiI6yEeg0ODcCPhXbJz3x8E",
-    "price": "$0.72",
+    "price": "None",
     "listings": 24
   },
   {
@@ -450,7 +452,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Bronze Ingot",
     "type": "Crafting Material",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTEk9yUehzqKcH9Q6J038",
-    "price": "$0.09",
+    "price": "None",
     "listings": 2383
   },
   {
@@ -458,7 +460,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Bronze Ring (Immortal) A",
     "type": "Ring - Lv. 5",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJhES9dKS088yUeizqKcH76bbP1R",
-    "price": "$1.99",
+    "price": "None",
     "listings": 6
   },
   {
@@ -466,7 +468,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Bronze Ring (Legendary) A",
     "type": "Ring - Lv. 5",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJhES9dKS088yUeizqKcH76bbP1R",
-    "price": "$0.72",
+    "price": "None",
     "listings": 17
   },
   {
@@ -474,7 +476,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Buckler (Immortal) A",
     "type": "Shield - Lv. 1",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlFTNVZOSI4yUeg0OPcCPhX08xXlbQ",
-    "price": "$0.37",
+    "price": "None",
     "listings": 5
   },
   {
@@ -482,7 +484,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Buckler (Legendary) A",
     "type": "Shield - Lv. 1",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlFTNVZOSI4yUeg0OPcCPhX08xXlbQ",
-    "price": "$0.16",
+    "price": "None",
     "listings": 11
   },
   {
@@ -490,7 +492,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Celestial Earring (Arcana) A",
     "type": "Earing - Lv. 65",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsI9MV9lbOiI6yEeg0ebcCPhXqWAXTyY",
-    "price": "$4.84",
+    "price": "None",
     "listings": 1
   },
   {
@@ -498,7 +500,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Celestial Earring (Immortal) A",
     "type": "Earing - Lv. 65",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsI9MV9lbOiI6yEeg0ebcCPhXqWAXTyY",
-    "price": "$5.64",
+    "price": "None",
     "listings": 11
   },
   {
@@ -506,7 +508,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Celestial Earring (Legendary) A",
     "type": "Earing - Lv. 65",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsI9MV9lbOiI6yEeg0ebcCPhXqWAXTyY",
-    "price": "$1.34",
+    "price": "None",
     "listings": 3
   },
   {
@@ -514,7 +516,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Chain Boots (Arcana) A",
     "type": "Boots - Lv. 20",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhCSsRGIkg_yUeg1fyCFvEubPTQCg",
-    "price": "$2.36",
+    "price": "None",
     "listings": 2
   },
   {
@@ -522,7 +524,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Chain Boots (Immortal) A",
     "type": "Boots - Lv. 20",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhCSsRGIkg_yUeg1fyCFvEubPTQCg",
-    "price": "$0.48",
+    "price": "None",
     "listings": 31
   },
   {
@@ -530,7 +532,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Chain Boots (Legendary) A",
     "type": "Boots - Lv. 20",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhCSsRGIkg_yUeg1fyCFvEubPTQCg",
-    "price": "$0.15",
+    "price": "None",
     "listings": 63
   },
   {
@@ -538,7 +540,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Chain Gloves (Arcana) A",
     "type": "Gloves - Lv. 20",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsI1BSsZQLiI5y0eg0OfcCPhXGQ3O2SU",
-    "price": "$1.84",
+    "price": "None",
     "listings": 23
   },
   {
@@ -546,7 +548,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Chain Gloves (Immortal) A",
     "type": "Gloves - Lv. 20",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsI1BSsZQLiI5y0eg0OfcCPhXGQ3O2SU",
-    "price": "$0.50",
+    "price": "None",
     "listings": 61
   },
   {
@@ -554,7 +556,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Chain Gloves (Legendary) A",
     "type": "Gloves - Lv. 20",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsI1BSsZQLiI5y0eg0OfcCPhXGQ3O2SU",
-    "price": "$0.14",
+    "price": "None",
     "listings": 56
   },
   {
@@ -562,7 +564,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Chain Helmet (Arcana) A",
     "type": "Helmet - Lv. 20",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIJISd1QKSI5yUeg0OfcCPhX8fKtIQA",
-    "price": "$2.20",
+    "price": "None",
     "listings": 16
   },
   {
@@ -570,7 +572,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Chain Helmet (Immortal) A",
     "type": "Helmet - Lv. 20",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIJISd1QKSI5yUeg0OfcCPhX8fKtIQA",
-    "price": "$0.50",
+    "price": "None",
     "listings": 48
   },
   {
@@ -578,7 +580,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Chain Helmet (Legendary) A",
     "type": "Helmet - Lv. 20",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIJISd1QKSI5yUeg0OfcCPhX8fKtIQA",
-    "price": "$0.14",
+    "price": "None",
     "listings": 58
   },
   {
@@ -586,7 +588,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Chain Mail (Arcana) A",
     "type": "Armor - Lv. 15",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItfSN9HIkg9yUeg1PyCFvFBvEhIBw",
-    "price": "$1.29",
+    "price": "None",
     "listings": 18
   },
   {
@@ -594,7 +596,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Chain Mail (Immortal) A",
     "type": "Armor - Lv. 15",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItfSN9HIkg9yUeg1PyCFvFBvEhIBw",
-    "price": "$0.51",
+    "price": "None",
     "listings": 35
   },
   {
@@ -602,7 +604,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Chain Mail (Legendary) A",
     "type": "Armor - Lv. 15",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItfSN9HIkg9yUeg1PyCFvFBvEhIBw",
-    "price": "$0.10",
+    "price": "None",
     "listings": 116
   },
   {
@@ -610,7 +612,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Chaos Shard",
     "type": "Crafting Material",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTEk5yUehzqKcH2O0ZKDU",
-    "price": "$0.15",
+    "price": "None",
     "listings": 415
   },
   {
@@ -618,7 +620,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Comet Staff (Arcana) A",
     "type": "Staff - Lv. 40",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlZRNZTIk4-yUeg2fyCFvEJFJCPlA",
-    "price": "$2.19",
+    "price": "None",
     "listings": 13
   },
   {
@@ -626,7 +628,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Comet Staff (Beyond) A",
     "type": "Staff - Lv. 40",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlZRNZTIk4-yUeg2fyCFvEJFJCPlA",
-    "price": "$9.02",
+    "price": "None",
     "listings": 2
   },
   {
@@ -634,7 +636,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Comet Staff (Immortal) A",
     "type": "Staff - Lv. 40",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlZRNZTIk4-yUeg2fyCFvEJFJCPlA",
-    "price": "$0.37",
+    "price": "None",
     "listings": 69
   },
   {
@@ -642,7 +644,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Comet Staff (Legendary) A",
     "type": "Staff - Lv. 40",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlZRNZTIk4-yUeg2fyCFvEJFJCPlA",
-    "price": "$0.14",
+    "price": "None",
     "listings": 126
   },
   {
@@ -650,7 +652,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Complete Crossbow (Arcana) A",
     "type": "Crossbow - Lv. 15",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIlfSsNGPzJbpkSk0OLCTLhANiYHZSuChQ",
-    "price": "$13.14",
+    "price": "None",
     "listings": 3
   },
   {
@@ -658,7 +660,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Complete Crossbow (Immortal) A",
     "type": "Crossbow - Lv. 15",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIlfSsNGPzJbpkSk0OLCTLhANiYHZSuChQ",
-    "price": "$2.72",
+    "price": "None",
     "listings": 7
   },
   {
@@ -666,7 +668,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Complete Crossbow (Legendary) A",
     "type": "Crossbow - Lv. 15",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIlfSsNGPzJbpkSk0OLCTLhANiYHZSuChQ",
-    "price": "$0.55",
+    "price": "None",
     "listings": 43
   },
   {
@@ -674,7 +676,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Composite Bow (Arcana) A",
     "type": "Bow - Lv. 15",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhCUs8mTE08yUO-kLyVm2WtmGs",
-    "price": "$2.32",
+    "price": "None",
     "listings": 14
   },
   {
@@ -682,7 +684,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Composite Bow (Immortal) A",
     "type": "Bow - Lv. 15",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhCUs8mTE08yUO-kLyVm2WtmGs",
-    "price": "$0.40",
+    "price": "None",
     "listings": 101
   },
   {
@@ -690,7 +692,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Composite Bow (Legendary) A",
     "type": "Bow - Lv. 15",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhCUs8mTE08yUO-kLyVm2WtmGs",
-    "price": "$0.06",
+    "price": "None",
     "listings": 356
   },
   {
@@ -698,7 +700,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Copper Amulet (Immortal) A",
     "type": "Amulet - Lv. 1",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItAUNxQKSI6yUeg0OPcCPhXUOX_t9M",
-    "price": "$1.46",
+    "price": "None",
     "listings": 5
   },
   {
@@ -706,7 +708,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Copper Amulet (Legendary) A",
     "type": "Amulet - Lv. 1",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItAUNxQKSI6yUeg0OPcCPhXUOX_t9M",
-    "price": "$1.20",
+    "price": "None",
     "listings": 5
   },
   {
@@ -714,7 +716,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Copper Bracer (Immortal) A",
     "type": "Bracer - Lv. 1",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhfRNNQLyI6ykeg0OPcCPhX1grcWCY",
-    "price": "$1.79",
+    "price": "None",
     "listings": 10
   },
   {
@@ -722,7 +724,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Copper Bracer (Legendary) A",
     "type": "Bracer - Lv. 1",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhfRNNQLyI6ykeg0OPcCPhX1grcWCY",
-    "price": "$0.50",
+    "price": "None",
     "listings": 20
   },
   {
@@ -730,7 +732,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Copper Earring (Immortal) A",
     "type": "Earing - Lv. 1",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsI9MV9lbOiI6yEeg0OPcCPhXDF489ZM",
-    "price": "$2.25",
+    "price": "None",
     "listings": 9
   },
   {
@@ -738,7 +740,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Copper Earring (Legendary) A",
     "type": "Earing - Lv. 1",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsI9MV9lbOiI6yEeg0OPcCPhXDF489ZM",
-    "price": "$0.69",
+    "price": "None",
     "listings": 8
   },
   {
@@ -746,7 +748,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Copper Nugget",
     "type": "Crafting Material",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTEk8yUekzqKcH5ujE5yY",
-    "price": "$0.07",
+    "price": "None",
     "listings": 566
   },
   {
@@ -754,7 +756,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Copper Ring (Immortal) A",
     "type": "Ring - Lv. 1",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJhES9dKS088yUehzqKcHzBrLbcK",
-    "price": "$1.75",
+    "price": "None",
     "listings": 7
   },
   {
@@ -762,7 +764,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Copper Ring (Legendary) A",
     "type": "Ring - Lv. 1",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJhES9dKS088yUehzqKcHzBrLbcK",
-    "price": "$0.66",
+    "price": "None",
     "listings": 8
   },
   {
@@ -770,7 +772,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Coral Piece",
     "type": "Decoration Material",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTEw9yUeizqKcH0tmeyHr",
-    "price": "$0.14",
+    "price": "None",
     "listings": 904
   },
   {
@@ -778,7 +780,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Crimson Bracer (Arcana) A",
     "type": "Bracer - Lv. 40",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhfRNNQLyI6ykeg0OvcCPhXsCuXqDA",
-    "price": "$5.54",
+    "price": "None",
     "listings": 1
   },
   {
@@ -786,7 +788,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Crimson Bracer (Immortal) A",
     "type": "Bracer - Lv. 40",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhfRNNQLyI6ykeg0OvcCPhXsCuXqDA",
-    "price": "$2.07",
+    "price": "None",
     "listings": 6
   },
   {
@@ -794,7 +796,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Crimson Bracer (Legendary) A",
     "type": "Bracer - Lv. 40",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhfRNNQLyI6ykeg0OvcCPhXsCuXqDA",
-    "price": "$0.81",
+    "price": "None",
     "listings": 18
   },
   {
@@ -802,7 +804,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Crystal Quartz",
     "type": "Decoration Material",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTEw_yUehzqKcH-Wb62BD",
-    "price": "$0.09",
+    "price": "None",
     "listings": 783
   },
   {
@@ -810,7 +812,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Cutlas (Immortal) A",
     "type": "Sword - Lv. 5",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlaSsJRIk48yUeg0vyCFvEzRUOz3A",
-    "price": "$0.17",
+    "price": "None",
     "listings": 49
   },
   {
@@ -818,7 +820,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Cutlas (Legendary) A",
     "type": "Sword - Lv. 5",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlaSsJRIk48yUeg0vyCFvEzRUOz3A",
-    "price": "$0.07",
+    "price": "None",
     "listings": 92
   },
   {
@@ -826,7 +828,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Darksteel Ingot",
     "type": "Crafting Material",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTEk6yUehzqKcH0GrVCR-",
-    "price": "$1.50",
+    "price": "None",
     "listings": 109
   },
   {
@@ -834,7 +836,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Demon Blood",
     "type": "Engraving Material",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTE84yUekzqKcH9OtD9wH",
-    "price": "$0.31",
+    "price": "None",
     "listings": 389
   },
   {
@@ -842,7 +844,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Devout Scepter (Arcana) A",
     "type": "Scepter - Lv. 30",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlOQMBBOC9TykSg0OLFVuZePyB0WdV3",
-    "price": "$2.47",
+    "price": "None",
     "listings": 9
   },
   {
@@ -850,7 +852,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Devout Scepter (Beyond) A",
     "type": "Scepter - Lv. 30",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlOQMBBOC9TykSg0OLFVuZePyB0WdV3",
-    "price": "$6.44",
+    "price": "None",
     "listings": 4
   },
   {
@@ -858,7 +860,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Devout Scepter (Immortal) A",
     "type": "Scepter - Lv. 30",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlOQMBBOC9TykSg0OLFVuZePyB0WdV3",
-    "price": "$0.39",
+    "price": "None",
     "listings": 46
   },
   {
@@ -866,7 +868,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Devout Scepter (Legendary) A",
     "type": "Scepter - Lv. 30",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlOQMBBOC9TykSg0OLFVuZePyB0WdV3",
-    "price": "$0.12",
+    "price": "None",
     "listings": 84
   },
   {
@@ -874,7 +876,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Diamond",
     "type": "Decoration Material",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTEw4yUehzqKcHyyb1pX1",
-    "price": "$0.92",
+    "price": "None",
     "listings": 322
   },
   {
@@ -882,7 +884,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Dice",
     "type": "Engraving Material",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTE84yUejzqKcH2xBhXA3",
-    "price": "$0.87",
+    "price": "None",
     "listings": 337
   },
   {
@@ -890,7 +892,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Dimensional Armor (Immortal) A",
     "type": "Armor - Lv. 80",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItfSN9HIkg9yUeh1_yCFvGlogEy6A",
-    "price": "$2.27",
+    "price": "None",
     "listings": 37
   },
   {
@@ -898,7 +900,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Dimensional Armor (Legendary) A",
     "type": "Armor - Lv. 80",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItfSN9HIkg9yUeh1_yCFvGlogEy6A",
-    "price": "$1.58",
+    "price": "None",
     "listings": 34
   },
   {
@@ -906,7 +908,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Dimensional Arrow (Arcana) A",
     "type": "Arrow - Lv. 80",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItfV99CIkk9yUeh1_yCFvEI_SUA1w",
-    "price": "$18.02",
+    "price": "None",
     "listings": 1
   },
   {
@@ -914,7 +916,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Dimensional Arrow (Legendary) A",
     "type": "Arrow - Lv. 80",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItfV99CIkk9yUeh1_yCFvEI_SUA1w",
-    "price": "$1.03",
+    "price": "None",
     "listings": 17
   },
   {
@@ -922,7 +924,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Dimensional Axe (Arcana) A",
     "type": "Axe - Lv. 80",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItVQM8mSE08yEC-kLyVhC-aZko",
-    "price": "$5.54",
+    "price": "None",
     "listings": 1
   },
   {
@@ -930,7 +932,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Dimensional Axe (Immortal) A",
     "type": "Axe - Lv. 80",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItVQM8mSE08yEC-kLyVhC-aZko",
-    "price": "$2.08",
+    "price": "None",
     "listings": 38
   },
   {
@@ -938,7 +940,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Dimensional Axe (Legendary) A",
     "type": "Axe - Lv. 80",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItVQM8mSE08yEC-kLyVhC-aZko",
-    "price": "$0.73",
+    "price": "None",
     "listings": 17
   },
   {
@@ -946,7 +948,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Dimensional Bolt (Immortal) A",
     "type": "Bolt - Lv. 80",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhCScRKSUk8yUanzqKcH0krde5M",
-    "price": "$2.77",
+    "price": "None",
     "listings": 1
   },
   {
@@ -954,7 +956,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Dimensional Bolt (Legendary) A",
     "type": "Bolt - Lv. 80",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhCScRKSUk8yUanzqKcH0krde5M",
-    "price": "$1.27",
+    "price": "None",
     "listings": 3
   },
   {
@@ -962,7 +964,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Dimensional Boots (Arcana) A",
     "type": "Boots - Lv. 80",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhCSsRGIkg_yUeh1_yCFvEB3bNr4w",
-    "price": "$4.78",
+    "price": "None",
     "listings": 3
   },
   {
@@ -970,7 +972,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Dimensional Boots (Immortal) A",
     "type": "Boots - Lv. 80",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhCSsRGIkg_yUeh1_yCFvEB3bNr4w",
-    "price": "$1.99",
+    "price": "None",
     "listings": 13
   },
   {
@@ -978,7 +980,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Dimensional Boots (Legendary) A",
     "type": "Boots - Lv. 80",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhCSsRGIkg_yUeh1_yCFvEB3bNr4w",
-    "price": "$0.77",
+    "price": "None",
     "listings": 38
   },
   {
@@ -986,7 +988,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Dimensional Crossbow (Immortal) A",
     "type": "Crossbow - Lv. 80",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIlfSsNGPzJbpkSk0OLDT7hANiZzqnrtag",
-    "price": "$2.70",
+    "price": "None",
     "listings": 10
   },
   {
@@ -994,7 +996,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Dimensional Crossbow (Legendary) A",
     "type": "Crossbow - Lv. 80",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIlfSsNGPzJbpkSk0OLDT7hANiZzqnrtag",
-    "price": "$0.59",
+    "price": "None",
     "listings": 18
   },
   {
@@ -1002,7 +1004,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Dimensional Gloves (Arcana) A",
     "type": "Gloves - Lv. 80",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsI1BSsZQLiI5y0eg0eXcCPhX0F0RKKg",
-    "price": "$12.51",
+    "price": "None",
     "listings": 1
   },
   {
@@ -1010,7 +1012,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Dimensional Gloves (Immortal) A",
     "type": "Gloves - Lv. 80",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsI1BSsZQLiI5y0eg0eXcCPhX0F0RKKg",
-    "price": "$1.58",
+    "price": "None",
     "listings": 27
   },
   {
@@ -1018,7 +1020,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Dimensional Gloves (Legendary) A",
     "type": "Gloves - Lv. 80",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsI1BSsZQLiI5y0eg0eXcCPhX0F0RKKg",
-    "price": "$0.62",
+    "price": "None",
     "listings": 37
   },
   {
@@ -1026,7 +1028,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Dimensional Hatchet (Arcana) A",
     "type": "Hatchet - Lv. 80",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIJMUdNdOClTzUKg0OPFVuZeP3YtTZMY",
-    "price": "$5.54",
+    "price": "None",
     "listings": 1
   },
   {
@@ -1034,7 +1036,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Dimensional Hatchet (Immortal) A",
     "type": "Hatchet - Lv. 80",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIJMUdNdOClTzUKg0OPFVuZeP3YtTZMY",
-    "price": "$5.87",
+    "price": "None",
     "listings": 1
   },
   {
@@ -1042,7 +1044,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Dimensional Hatchet (Legendary) A",
     "type": "Hatchet - Lv. 80",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIJMUdNdOClTzUKg0OPFVuZeP3YtTZMY",
-    "price": "$0.89",
+    "price": "None",
     "listings": 5
   },
   {
@@ -1050,7 +1052,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Dimensional Helmet (Arcana) A",
     "type": "Helmet - Lv. 80",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIJISd1QKSI5yUeg0eXcCPhXEoKvO14",
-    "price": "$1.18",
+    "price": "None",
     "listings": 12
   },
   {
@@ -1058,7 +1060,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Dimensional Helmet (Immortal) A",
     "type": "Helmet - Lv. 80",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIJISd1QKSI5yUeg0eXcCPhXEoKvO14",
-    "price": "$1.81",
+    "price": "None",
     "listings": 55
   },
   {
@@ -1066,7 +1068,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Dimensional Helmet (Legendary) A",
     "type": "Helmet - Lv. 80",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIJISd1QKSI5yUeg0eXcCPhXEoKvO14",
-    "price": "$0.69",
+    "price": "None",
     "listings": 47
   },
   {
@@ -1074,7 +1076,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Dimensional Orb (Arcana) A",
     "type": "Orb - Lv. 80",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIVfR88hT008yEC-kLyVgwanDxI",
-    "price": "$9.89",
+    "price": "None",
     "listings": 3
   },
   {
@@ -1082,7 +1084,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Dimensional Orb (Immortal) A",
     "type": "Orb - Lv. 80",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIVfR88hT008yEC-kLyVgwanDxI",
-    "price": "$2.71",
+    "price": "None",
     "listings": 9
   },
   {
@@ -1090,7 +1092,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Dimensional Orb (Legendary) A",
     "type": "Orb - Lv. 80",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIVfR88hT008yEC-kLyVgwanDxI",
-    "price": "$1.15",
+    "price": "None",
     "listings": 19
   },
   {
@@ -1098,7 +1100,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Dimensional Scepter (Arcana) A",
     "type": "Scepter - Lv. 80",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlOQMBBOC9TykSg0OPFVuZePwJ6ZpJ6",
-    "price": "$6.93",
+    "price": "None",
     "listings": 4
   },
   {
@@ -1106,7 +1108,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Dimensional Scepter (Immortal) A",
     "type": "Scepter - Lv. 80",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlOQMBBOC9TykSg0OPFVuZePwJ6ZpJ6",
-    "price": "$2.11",
+    "price": "None",
     "listings": 5
   },
   {
@@ -1114,7 +1116,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Dimensional Scepter (Legendary) A",
     "type": "Scepter - Lv. 80",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlOQMBBOC9TykSg0OPFVuZePwJ6ZpJ6",
-    "price": "$0.34",
+    "price": "None",
     "listings": 22
   },
   {
@@ -1122,7 +1124,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Dimensional Shield (Beyond) A",
     "type": "Shield - Lv. 80",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlFTNVZOSI4yUeg0eXcCPhXxWJg0KQ",
-    "price": "$9.02",
+    "price": "None",
     "listings": 2
   },
   {
@@ -1130,7 +1132,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Dimensional Shield (Celestial) A",
     "type": "Shield - Lv. 80",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlFTNVZOSI4yUeg0eXcCPhXxWJg0KQ",
-    "price": "$22.54",
+    "price": "None",
     "listings": 1
   },
   {
@@ -1138,7 +1140,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Dimensional Shield (Immortal) A",
     "type": "Shield - Lv. 80",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlFTNVZOSI4yUeg0eXcCPhXxWJg0KQ",
-    "price": "$2.02",
+    "price": "None",
     "listings": 3
   },
   {
@@ -1146,7 +1148,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Dimensional Shield (Legendary) A",
     "type": "Shield - Lv. 80",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlFTNVZOSI4yUeg0eXcCPhXxWJg0KQ",
-    "price": "$0.98",
+    "price": "None",
     "listings": 18
   },
   {
@@ -1154,7 +1156,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Dimensional Sword (Arcana) A",
     "type": "Sword - Lv. 80",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlaSsJRIk48yUeh1_yCFvG92Qn9Hg",
-    "price": "$5.54",
+    "price": "None",
     "listings": 1
   },
   {
@@ -1162,7 +1164,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Dimensional Sword (Beyond) A",
     "type": "Sword - Lv. 80",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlaSsJRIk48yUeh1_yCFvG92Qn9Hg",
-    "price": "$9.02",
+    "price": "None",
     "listings": 1
   },
   {
@@ -1170,7 +1172,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Dimensional Sword (Immortal) A",
     "type": "Sword - Lv. 80",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlaSsJRIk48yUeh1_yCFvG92Qn9Hg",
-    "price": "$2.08",
+    "price": "None",
     "listings": 9
   },
   {
@@ -1178,7 +1180,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Dimensional Sword (Legendary) A",
     "type": "Sword - Lv. 80",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlaSsJRIk48yUeh1_yCFvG92Qn9Hg",
-    "price": "$0.65",
+    "price": "None",
     "listings": 29
   },
   {
@@ -1186,7 +1188,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Dimensional Tome (Arcana) A",
     "type": "Tome - Lv. 80",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJ5CSNVKSU48yUanzqKcH1KJl9Pc",
-    "price": "$88.93",
+    "price": "None",
     "listings": 1
   },
   {
@@ -1194,7 +1196,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Dimensional Tome (Immortal) A",
     "type": "Tome - Lv. 80",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJ5CSNVKSU48yUanzqKcH1KJl9Pc",
-    "price": "$2.02",
+    "price": "None",
     "listings": 5
   },
   {
@@ -1202,7 +1204,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Dimensional Tome (Legendary) A",
     "type": "Tome - Lv. 80",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJ5CSNVKSU48yUanzqKcH1KJl9Pc",
-    "price": "$0.76",
+    "price": "None",
     "listings": 23
   },
   {
@@ -1210,7 +1212,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Dragon Bile",
     "type": "Engraving Material",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTE85yUekzqKcH3Dqz1IF",
-    "price": "$1.03",
+    "price": "None",
     "listings": 237
   },
   {
@@ -1218,7 +1220,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Dragonite Crystal",
     "type": "Decoration Material",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTEw7yUeizqKcH_X42nrV",
-    "price": "$22.54",
+    "price": "None",
     "listings": 1
   },
   {
@@ -1226,7 +1228,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Dusk Bow (Arcana) A",
     "type": "Bow - Lv. 30",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhCUs8mTE08yUC-kLyV4niTZto",
-    "price": "$6.25",
+    "price": "None",
     "listings": 10
   },
   {
@@ -1234,7 +1236,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Dusk Bow (Beyond) A",
     "type": "Bow - Lv. 30",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhCUs8mTE08yUC-kLyV4niTZto",
-    "price": "$45.60",
+    "price": "None",
     "listings": 1
   },
   {
@@ -1242,7 +1244,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Dusk Bow (Immortal) A",
     "type": "Bow - Lv. 30",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhCUs8mTE08yUC-kLyV4niTZto",
-    "price": "$0.87",
+    "price": "None",
     "listings": 63
   },
   {
@@ -1250,7 +1252,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Dusk Bow (Legendary) A",
     "type": "Bow - Lv. 30",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhCUs8mTE08yUC-kLyV4niTZto",
-    "price": "$0.08",
+    "price": "None",
     "listings": 139
   },
   {
@@ -1258,7 +1260,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Eclipse Amulet (Arcana) A",
     "type": "Amulet - Lv. 65",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItAUNxQKSI6yUeg0ebcCPhXEU4z_xU",
-    "price": "$4.84",
+    "price": "None",
     "listings": 1
   },
   {
@@ -1266,7 +1268,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Eclipse Amulet (Legendary) A",
     "type": "Amulet - Lv. 65",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItAUNxQKSI6yUeg0ebcCPhXEU4z_xU",
-    "price": "$1.34",
+    "price": "None",
     "listings": 20
   },
   {
@@ -1274,7 +1276,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Eclipse Bracer (Arcana) A",
     "type": "Bracer - Lv. 65",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhfRNNQLyI6ykeg0ebcCPhXeU60l4g",
-    "price": "$4.84",
+    "price": "None",
     "listings": 1
   },
   {
@@ -1282,7 +1284,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Eclipse Bracer (Legendary) A",
     "type": "Bracer - Lv. 65",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhfRNNQLyI6ykeg0ebcCPhXeU60l4g",
-    "price": "$1.38",
+    "price": "None",
     "listings": 5
   },
   {
@@ -1290,7 +1292,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Eclipse Ring (Immortal) A",
     "type": "Ring - Lv. 65",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJhES9dKS088yUakzqKcH-yZJgVT",
-    "price": "$2.77",
+    "price": "None",
     "listings": 1
   },
   {
@@ -1298,7 +1300,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Eclipse Ring (Legendary) A",
     "type": "Ring - Lv. 65",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJhES9dKS088yUakzqKcH-yZJgVT",
-    "price": "$1.31",
+    "price": "None",
     "listings": 11
   },
   {
@@ -1306,7 +1308,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Elder Orb (Immortal) A",
     "type": "Orb - Lv. 5",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIVfR88hT008yUW-kLyVJfNBrjc",
-    "price": "$0.60",
+    "price": "None",
     "listings": 7
   },
   {
@@ -1314,7 +1316,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Elder Orb (Legendary) A",
     "type": "Orb - Lv. 5",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIVfR88hT008yUW-kLyVJfNBrjc",
-    "price": "$0.14",
+    "price": "None",
     "listings": 28
   },
   {
@@ -1322,7 +1324,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Elite Bow (Arcana) A",
     "type": "Bow - Lv. 40",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhCUs8mTE08yU6-kLyVAAf7yE0",
-    "price": "$3.50",
+    "price": "None",
     "listings": 14
   },
   {
@@ -1330,7 +1332,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Elite Bow (Beyond) A",
     "type": "Bow - Lv. 40",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhCUs8mTE08yU6-kLyVAAf7yE0",
-    "price": "$9.02",
+    "price": "None",
     "listings": 2
   },
   {
@@ -1338,7 +1340,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Elite Bow (Immortal) A",
     "type": "Bow - Lv. 40",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhCUs8mTE08yU6-kLyVAAf7yE0",
-    "price": "$0.40",
+    "price": "None",
     "listings": 87
   },
   {
@@ -1346,7 +1348,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Elite Bow (Legendary) A",
     "type": "Bow - Lv. 40",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhCUs8mTE08yU6-kLyVAAf7yE0",
-    "price": "$0.13",
+    "price": "None",
     "listings": 155
   },
   {
@@ -1354,7 +1356,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Elite Crossbow (Arcana) A",
     "type": "Crossbow - Lv. 40",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIlfSsNGPzJbpkSk0OLCQbhANiYhXqDbUw",
-    "price": "$5.54",
+    "price": "None",
     "listings": 3
   },
   {
@@ -1362,7 +1364,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Elite Crossbow (Immortal) A",
     "type": "Crossbow - Lv. 40",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIlfSsNGPzJbpkSk0OLCQbhANiYhXqDbUw",
-    "price": "$1.40",
+    "price": "None",
     "listings": 27
   },
   {
@@ -1370,7 +1372,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Elite Crossbow (Legendary) A",
     "type": "Crossbow - Lv. 40",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIlfSsNGPzJbpkSk0OLCQbhANiYhXqDbUw",
-    "price": "$0.18",
+    "price": "None",
     "listings": 50
   },
   {
@@ -1378,7 +1380,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Elite Hatchet (Arcana) A",
     "type": "Hatchet - Lv. 40",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIJMUdNdOClTzUKg0OLLVuZeP8O2LxFC",
-    "price": "$3.59",
+    "price": "None",
     "listings": 2
   },
   {
@@ -1386,7 +1388,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Elite Hatchet (Immortal) A",
     "type": "Hatchet - Lv. 40",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIJMUdNdOClTzUKg0OLLVuZeP8O2LxFC",
-    "price": "$1.79",
+    "price": "None",
     "listings": 1
   },
   {
@@ -1394,7 +1396,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Elite Hatchet (Legendary) A",
     "type": "Hatchet - Lv. 40",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIJMUdNdOClTzUKg0OLLVuZeP8O2LxFC",
-    "price": "$0.72",
+    "price": "None",
     "listings": 19
   },
   {
@@ -1402,7 +1404,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Elite Shield (Arcana) A",
     "type": "Shield - Lv. 40",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlFTNVZOSI4yUeg0OvcCPhXRRriSqY",
-    "price": "$1.87",
+    "price": "None",
     "listings": 17
   },
   {
@@ -1410,7 +1412,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Elite Shield (Beyond) A",
     "type": "Shield - Lv. 40",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlFTNVZOSI4yUeg0OvcCPhXRRriSqY",
-    "price": "$8.74",
+    "price": "None",
     "listings": 2
   },
   {
@@ -1418,7 +1420,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Elite Shield (Immortal) A",
     "type": "Shield - Lv. 40",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlFTNVZOSI4yUeg0OvcCPhXRRriSqY",
-    "price": "$0.47",
+    "price": "None",
     "listings": 31
   },
   {
@@ -1426,7 +1428,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Elite Shield (Legendary) A",
     "type": "Shield - Lv. 40",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlFTNVZOSI4yUeg0OvcCPhXRRriSqY",
-    "price": "$0.13",
+    "price": "None",
     "listings": 49
   },
   {
@@ -1434,7 +1436,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Emerald",
     "type": "Decoration Material",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTEw-yUekzqKcH-x4iUkH",
-    "price": "$0.53",
+    "price": "None",
     "listings": 650
   },
   {
@@ -1442,7 +1444,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Emerald Amulet (Immortal) A",
     "type": "Amulet - Lv. 50",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItAUNxQKSI6yUeg0ePcCPhXepQTZ0Y",
-    "price": "$14.39",
+    "price": "None",
     "listings": 2
   },
   {
@@ -1450,7 +1452,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Emerald Amulet (Legendary) A",
     "type": "Amulet - Lv. 50",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItAUNxQKSI6yUeg0ePcCPhXepQTZ0Y",
-    "price": "$2.59",
+    "price": "None",
     "listings": 11
   },
   {
@@ -1458,7 +1460,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Emerald Bracer (Arcana) A",
     "type": "Bracer - Lv. 50",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhfRNNQLyI6ykeg0ePcCPhXWrmmDA4",
-    "price": "$4.84",
+    "price": "None",
     "listings": 3
   },
   {
@@ -1466,7 +1468,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Emerald Bracer (Immortal) A",
     "type": "Bracer - Lv. 50",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhfRNNQLyI6ykeg0ePcCPhXWrmmDA4",
-    "price": "$1.91",
+    "price": "None",
     "listings": 8
   },
   {
@@ -1474,7 +1476,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Emerald Bracer (Legendary) A",
     "type": "Bracer - Lv. 50",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhfRNNQLyI6ykeg0ePcCPhXWrmmDA4",
-    "price": "$1.31",
+    "price": "None",
     "listings": 16
   },
   {
@@ -1482,7 +1484,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Emerald Earring (Arcana) A",
     "type": "Earing - Lv. 30",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsI9MV9lbOiI6yEeg0OXcCPhXjPaYdDM",
-    "price": "$5.46",
+    "price": "None",
     "listings": 9
   },
   {
@@ -1490,7 +1492,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Emerald Earring (Beyond) A",
     "type": "Earing - Lv. 30",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsI9MV9lbOiI6yEeg0OXcCPhXjPaYdDM",
-    "price": "$25.39",
+    "price": "None",
     "listings": 3
   },
   {
@@ -1498,7 +1500,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Emerald Earring (Immortal) A",
     "type": "Earing - Lv. 30",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsI9MV9lbOiI6yEeg0OXcCPhXjPaYdDM",
-    "price": "$1.57",
+    "price": "None",
     "listings": 20
   },
   {
@@ -1506,7 +1508,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Emerald Earring (Legendary) A",
     "type": "Earing - Lv. 30",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsI9MV9lbOiI6yEeg0OXcCPhXjPaYdDM",
-    "price": "$1.73",
+    "price": "None",
     "listings": 22
   },
   {
@@ -1514,7 +1516,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Emerald Ring (Immortal) A",
     "type": "Ring - Lv. 50",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJhES9dKS088yUahzqKcH4PcE8f0",
-    "price": "$2.77",
+    "price": "None",
     "listings": 1
   },
   {
@@ -1522,7 +1524,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Emerald Ring (Legendary) A",
     "type": "Ring - Lv. 50",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJhES9dKS088yUahzqKcH4PcE8f0",
-    "price": "$1.38",
+    "price": "None",
     "listings": 8
   },
   {
@@ -1530,7 +1532,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Empire 10th Anniversary Coin",
     "type": "Offering Material",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTEs8yUekzqKcHzhTD1yF",
-    "price": "$3.74",
+    "price": "None",
     "listings": 81
   },
   {
@@ -1538,7 +1540,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Empire 1st Anniversary Coin",
     "type": "Offering Material",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTEs8yUeizqKcH8BI083B",
-    "price": "$0.63",
+    "price": "None",
     "listings": 133
   },
   {
@@ -1546,7 +1548,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Empire 50th Anniversary Coin",
     "type": "Offering Material",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTEs8yUemzqKcHwOasiT6",
-    "price": "$22.54",
+    "price": "None",
     "listings": 1
   },
   {
@@ -1554,7 +1556,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Empire Armor (Immortal) A",
     "type": "Armor - Lv. 5",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItfSN9HIkg9yUeg0vyCFvEB4Str1A",
-    "price": "$0.18",
+    "price": "None",
     "listings": 44
   },
   {
@@ -1562,7 +1564,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Empire Armor (Legendary) A",
     "type": "Armor - Lv. 5",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItfSN9HIkg9yUeg0vyCFvEB4Str1A",
-    "price": "$0.07",
+    "price": "None",
     "listings": 50
   },
   {
@@ -1570,7 +1572,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Empire Boots (Immortal) A",
     "type": "Boots - Lv. 5",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhCSsRGIkg_yUeg0vyCFvFCbY0Siw",
-    "price": "$0.19",
+    "price": "None",
     "listings": 36
   },
   {
@@ -1578,7 +1580,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Empire Boots (Legendary) A",
     "type": "Boots - Lv. 5",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhCSsRGIkg_yUeg0vyCFvFCbY0Siw",
-    "price": "$0.07",
+    "price": "None",
     "listings": 54
   },
   {
@@ -1586,7 +1588,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Empire Gloves (Immortal) A",
     "type": "Gloves - Lv. 5",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsI1BSsZQLiI5y0eg0ODcCPhX30JmLzI",
-    "price": "$0.16",
+    "price": "None",
     "listings": 40
   },
   {
@@ -1594,7 +1596,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Empire Gloves (Legendary) A",
     "type": "Gloves - Lv. 5",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsI1BSsZQLiI5y0eg0ODcCPhX30JmLzI",
-    "price": "$0.09",
+    "price": "None",
     "listings": 38
   },
   {
@@ -1602,7 +1604,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Empire Helmet (Immortal) A",
     "type": "Helmet - Lv. 5",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIJISd1QKSI5yUeg0ODcCPhXh8WbJyQ",
-    "price": "$0.16",
+    "price": "None",
     "listings": 30
   },
   {
@@ -1610,7 +1612,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Empire Helmet (Legendary) A",
     "type": "Helmet - Lv. 5",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIJISd1QKSI5yUeg0ODcCPhXh8WbJyQ",
-    "price": "$0.07",
+    "price": "None",
     "listings": 48
   },
   {
@@ -1618,7 +1620,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Empire Tome (Immortal) A",
     "type": "Tome - Lv. 5",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJ5CSNVKSU48yUeizqKcHw9phSLp",
-    "price": "$0.73",
+    "price": "None",
     "listings": 9
   },
   {
@@ -1626,7 +1628,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Empire Tome (Legendary) A",
     "type": "Tome - Lv. 5",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJ5CSNVKSU48yUeizqKcHw9phSLp",
-    "price": "$0.51",
+    "price": "None",
     "listings": 9
   },
   {
@@ -1634,7 +1636,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Enchanted Ruby",
     "type": "Decoration Material",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTEw5yUejzqKcH2ygO_Tc",
-    "price": "$1.19",
+    "price": "None",
     "listings": 337
   },
   {
@@ -1642,7 +1644,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Ethereal Bracer (Arcana) A",
     "type": "Bracer - Lv. 80",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhfRNNQLyI6ykeg0eXcCPhX8JAhIZU",
-    "price": "$4.84",
+    "price": "None",
     "listings": 1
   },
   {
@@ -1650,7 +1652,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Ethereal Bracer (Immortal) A",
     "type": "Bracer - Lv. 80",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhfRNNQLyI6ykeg0eXcCPhX8JAhIZU",
-    "price": "$2.71",
+    "price": "None",
     "listings": 1
   },
   {
@@ -1658,7 +1660,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Ethereal Bracer (Legendary) A",
     "type": "Bracer - Lv. 80",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhfRNNQLyI6ykeg0eXcCPhX8JAhIZU",
-    "price": "$1.38",
+    "price": "None",
     "listings": 1
   },
   {
@@ -1666,7 +1668,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Ethereal Earring (Arcana) A",
     "type": "Earing - Lv. 80",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsI9MV9lbOiI6yEeg0eXcCPhXpZNNrJY",
-    "price": "$4.84",
+    "price": "None",
     "listings": 1
   },
   {
@@ -1674,7 +1676,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Ethereal Earring (Legendary) A",
     "type": "Earing - Lv. 80",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsI9MV9lbOiI6yEeg0eXcCPhXpZNNrJY",
-    "price": "$1.38",
+    "price": "None",
     "listings": 1
   },
   {
@@ -1682,7 +1684,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Ethereal Ring (Legendary) A",
     "type": "Ring - Lv. 80",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJhES9dKS088yUanzqKcH8JzrIll",
-    "price": "$3.99",
+    "price": "None",
     "listings": 1
   },
   {
@@ -1690,7 +1692,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Exceptional Crossbow (Arcana) A",
     "type": "Crossbow - Lv. 20",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIlfSsNGPzJbpkSk0OLCTbhANia6az2Ugg",
-    "price": "$17.84",
+    "price": "None",
     "listings": 1
   },
   {
@@ -1698,7 +1700,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Exceptional Crossbow (Immortal) A",
     "type": "Crossbow - Lv. 20",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIlfSsNGPzJbpkSk0OLCTbhANia6az2Ugg",
-    "price": "$4.86",
+    "price": "None",
     "listings": 11
   },
   {
@@ -1706,7 +1708,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Exceptional Crossbow (Legendary) A",
     "type": "Crossbow - Lv. 20",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIlfSsNGPzJbpkSk0OLCTbhANia6az2Ugg",
-    "price": "$1.21",
+    "price": "None",
     "listings": 5
   },
   {
@@ -1714,7 +1716,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Fate Arrow (Immortal) A",
     "type": "Arrow - Lv. 50",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItfV99CIkk9yUeh0fyCFvHfSA7suw",
-    "price": "$2.61",
+    "price": "None",
     "listings": 3
   },
   {
@@ -1722,7 +1724,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Fate Arrow (Legendary) A",
     "type": "Arrow - Lv. 50",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItfV99CIkk9yUeh0fyCFvHfSA7suw",
-    "price": "$0.84",
+    "price": "None",
     "listings": 10
   },
   {
@@ -1730,7 +1732,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Fate Axe (Arcana) A",
     "type": "Axe - Lv. 50",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItVQM8mSE08yEa-kLyVCpJ2FBY",
-    "price": "$3.41",
+    "price": "None",
     "listings": 3
   },
   {
@@ -1738,7 +1740,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Fate Axe (Beyond) A",
     "type": "Axe - Lv. 50",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItVQM8mSE08yEa-kLyVCpJ2FBY",
-    "price": "$21.77",
+    "price": "None",
     "listings": 1
   },
   {
@@ -1746,7 +1748,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Fate Axe (Immortal) A",
     "type": "Axe - Lv. 50",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItVQM8mSE08yEa-kLyVCpJ2FBY",
-    "price": "$1.18",
+    "price": "None",
     "listings": 23
   },
   {
@@ -1754,7 +1756,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Fate Axe (Legendary) A",
     "type": "Axe - Lv. 50",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItVQM8mSE08yEa-kLyVCpJ2FBY",
-    "price": "$0.24",
+    "price": "None",
     "listings": 18
   },
   {
@@ -1762,7 +1764,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Fate Bolt (Immortal) A",
     "type": "Bolt - Lv. 50",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhCScRKSUk8yUahzqKcH07_h8kw",
-    "price": "$2.88",
+    "price": "None",
     "listings": 1
   },
   {
@@ -1770,7 +1772,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Fate Bolt (Legendary) A",
     "type": "Bolt - Lv. 50",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhCScRKSUk8yUahzqKcH07_h8kw",
-    "price": "$0.76",
+    "price": "None",
     "listings": 23
   },
   {
@@ -1778,7 +1780,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Fate Helmet (Arcana) A",
     "type": "Helmet - Lv. 50",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIJISd1QKSI5yUeg0ePcCPhXeqSDA1w",
-    "price": "$4.73",
+    "price": "None",
     "listings": 3
   },
   {
@@ -1786,7 +1788,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Fate Helmet (Immortal) A",
     "type": "Helmet - Lv. 50",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIJISd1QKSI5yUeg0ePcCPhXeqSDA1w",
-    "price": "$1.65",
+    "price": "None",
     "listings": 3
   },
   {
@@ -1794,7 +1796,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Fate Helmet (Legendary) A",
     "type": "Helmet - Lv. 50",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIJISd1QKSI5yUeg0ePcCPhXeqSDA1w",
-    "price": "$0.35",
+    "price": "None",
     "listings": 16
   },
   {
@@ -1802,7 +1804,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Fate Scepter (Arcana) A",
     "type": "Scepter - Lv. 50",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlOQMBBOC9TykSg0OPDVuZeP5tUN1fA",
-    "price": "$5.54",
+    "price": "None",
     "listings": 5
   },
   {
@@ -1810,7 +1812,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Fate Scepter (Beyond) A",
     "type": "Scepter - Lv. 50",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlOQMBBOC9TykSg0OPDVuZeP5tUN1fA",
-    "price": "$22.80",
+    "price": "None",
     "listings": 1
   },
   {
@@ -1818,7 +1820,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Fate Scepter (Immortal) A",
     "type": "Scepter - Lv. 50",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlOQMBBOC9TykSg0OPDVuZeP5tUN1fA",
-    "price": "$1.57",
+    "price": "None",
     "listings": 13
   },
   {
@@ -1826,7 +1828,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Fate Scepter (Legendary) A",
     "type": "Scepter - Lv. 50",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlOQMBBOC9TykSg0OPDVuZeP5tUN1fA",
-    "price": "$0.32",
+    "price": "None",
     "listings": 32
   },
   {
@@ -1834,7 +1836,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Fate Sword (Arcana) A",
     "type": "Sword - Lv. 50",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlaSsJRIk48yUeh0fyCFvHkGrR9DA",
-    "price": "$2.72",
+    "price": "None",
     "listings": 11
   },
   {
@@ -1842,7 +1844,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Fate Sword (Immortal) A",
     "type": "Sword - Lv. 50",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlaSsJRIk48yUeh0fyCFvHkGrR9DA",
-    "price": "$0.69",
+    "price": "None",
     "listings": 18
   },
   {
@@ -1850,7 +1852,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Fate Sword (Legendary) A",
     "type": "Sword - Lv. 50",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlaSsJRIk48yUeh0fyCFvHkGrR9DA",
-    "price": "$0.24",
+    "price": "None",
     "listings": 13
   },
   {
@@ -1858,7 +1860,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Fate Tome (Immortal) A",
     "type": "Tome - Lv. 50",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJ5CSNVKSU48yUahzqKcH5qU-uNa",
-    "price": "$2.53",
+    "price": "None",
     "listings": 4
   },
   {
@@ -1866,7 +1868,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Fate Tome (Legendary) A",
     "type": "Tome - Lv. 50",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJ5CSNVKSU48yUahzqKcH5qU-uNa",
-    "price": "$1.53",
+    "price": "None",
     "listings": 7
   },
   {
@@ -1874,7 +1876,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Fear Bolt (Immortal) A",
     "type": "Bolt - Lv. 5",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhCScRKSUk8yUeizqKcH5JC0pZz",
-    "price": "$2.77",
+    "price": "None",
     "listings": 1
   },
   {
@@ -1882,7 +1884,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Fighter's Helmet (Arcana) A",
     "type": "Helmet - Lv. 65",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIJISd1QKSI5yUeg0ebcCPhXUXZJcBI",
-    "price": "$5.54",
+    "price": "None",
     "listings": 1
   },
   {
@@ -1890,7 +1892,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Fighter's Helmet (Immortal) A",
     "type": "Helmet - Lv. 65",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIJISd1QKSI5yUeg0ebcCPhXUXZJcBI",
-    "price": "$1.08",
+    "price": "None",
     "listings": 7
   },
   {
@@ -1898,7 +1900,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Fighter's Helmet (Legendary) A",
     "type": "Helmet - Lv. 65",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIJISd1QKSI5yUeg0ebcCPhXUXZJcBI",
-    "price": "$0.25",
+    "price": "None",
     "listings": 60
   },
   {
@@ -1906,7 +1908,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Frozen Orb (Arcana) A",
     "type": "Orb - Lv. 15",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIVfR88hT008yUO-kLyVeM2zigU",
-    "price": "$5.54",
+    "price": "None",
     "listings": 1
   },
   {
@@ -1914,7 +1916,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Frozen Orb (Immortal) A",
     "type": "Orb - Lv. 15",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIVfR88hT008yUO-kLyVeM2zigU",
-    "price": "$0.50",
+    "price": "None",
     "listings": 40
   },
   {
@@ -1922,7 +1924,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Frozen Orb (Legendary) A",
     "type": "Orb - Lv. 15",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIVfR88hT008yUO-kLyVeM2zigU",
-    "price": "$0.17",
+    "price": "None",
     "listings": 57
   },
   {
@@ -1930,7 +1932,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Gale Arrow (Immortal) A",
     "type": "Arrow - Lv. 30",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItfV99CIkk9yUeg1_yCFvEoAKzcFQ",
-    "price": "$1.65",
+    "price": "None",
     "listings": 6
   },
   {
@@ -1938,7 +1940,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Gale Arrow (Legendary) A",
     "type": "Arrow - Lv. 30",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItfV99CIkk9yUeg1_yCFvEoAKzcFQ",
-    "price": "$0.50",
+    "price": "None",
     "listings": 42
   },
   {
@@ -1946,7 +1948,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Garnet",
     "type": "Decoration Material",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTEw_yUekzqKcH3RPkBnz",
-    "price": "$0.09",
+    "price": "None",
     "listings": 561
   },
   {
@@ -1954,7 +1956,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Goblin Hide",
     "type": "Engraving Material",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTE88yUehzqKcH3BSI2ZW",
-    "price": "$0.03",
+    "price": "None",
     "listings": 1510
   },
   {
@@ -1962,7 +1964,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Gold Amulet (Arcana) A",
     "type": "Amulet - Lv. 15",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItAUNxQKSI6yUeg0ObcCPhXBZDdh6E",
-    "price": "$39.65",
+    "price": "None",
     "listings": 1
   },
   {
@@ -1970,7 +1972,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Gold Amulet (Immortal) A",
     "type": "Amulet - Lv. 15",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItAUNxQKSI6yUeg0ObcCPhXBZDdh6E",
-    "price": "$2.69",
+    "price": "None",
     "listings": 5
   },
   {
@@ -1978,7 +1980,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Gold Amulet (Legendary) A",
     "type": "Amulet - Lv. 15",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItAUNxQKSI6yUeg0ObcCPhXBZDdh6E",
-    "price": "$1.90",
+    "price": "None",
     "listings": 11
   },
   {
@@ -1986,7 +1988,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Gold Bracer (Arcana) A",
     "type": "Bracer - Lv. 15",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhfRNNQLyI6ykeg0ObcCPhXBFWmpho",
-    "price": "$5.48",
+    "price": "None",
     "listings": 2
   },
   {
@@ -1994,7 +1996,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Gold Bracer (Immortal) A",
     "type": "Bracer - Lv. 15",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhfRNNQLyI6ykeg0ObcCPhXBFWmpho",
-    "price": "$1.66",
+    "price": "None",
     "listings": 30
   },
   {
@@ -2002,7 +2004,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Gold Bracer (Legendary) A",
     "type": "Bracer - Lv. 15",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhfRNNQLyI6ykeg0ObcCPhXBFWmpho",
-    "price": "$0.88",
+    "price": "None",
     "listings": 25
   },
   {
@@ -2010,7 +2012,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Gold Earring (Arcana) A",
     "type": "Earing - Lv. 15",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsI9MV9lbOiI6yEeg0ObcCPhX6FgWnbU",
-    "price": "$5.34",
+    "price": "None",
     "listings": 1
   },
   {
@@ -2018,7 +2020,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Gold Earring (Immortal) A",
     "type": "Earing - Lv. 15",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsI9MV9lbOiI6yEeg0ObcCPhX6FgWnbU",
-    "price": "$1.66",
+    "price": "None",
     "listings": 23
   },
   {
@@ -2026,7 +2028,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Gold Earring (Legendary) A",
     "type": "Earing - Lv. 15",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsI9MV9lbOiI6yEeg0ObcCPhX6FgWnbU",
-    "price": "$0.87",
+    "price": "None",
     "listings": 21
   },
   {
@@ -2034,7 +2036,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Gold Ingot",
     "type": "Crafting Material",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTEk-yUeizqKcHzLFc8Bf",
-    "price": "$0.08",
+    "price": "None",
     "listings": 2608
   },
   {
@@ -2042,7 +2044,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Gold Ring (Arcana) A",
     "type": "Ring - Lv. 15",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJhES9dKS088yUekzqKcH20RZFOb",
-    "price": "$11.50",
+    "price": "None",
     "listings": 1
   },
   {
@@ -2050,7 +2052,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Gold Ring (Immortal) A",
     "type": "Ring - Lv. 15",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJhES9dKS088yUekzqKcH20RZFOb",
-    "price": "$1.74",
+    "price": "None",
     "listings": 13
   },
   {
@@ -2058,7 +2060,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Gold Ring (Legendary) A",
     "type": "Ring - Lv. 15",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJhES9dKS088yUekzqKcH20RZFOb",
-    "price": "$1.45",
+    "price": "None",
     "listings": 8
   },
   {
@@ -2066,7 +2068,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Great Axe (Arcana) A",
     "type": "Axe - Lv. 30",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItVQM8mSE08yUC-kLyV_U1pl8Y",
-    "price": "$2.85",
+    "price": "None",
     "listings": 6
   },
   {
@@ -2074,7 +2076,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Great Axe (Immortal) A",
     "type": "Axe - Lv. 30",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItVQM8mSE08yUC-kLyV_U1pl8Y",
-    "price": "$1.07",
+    "price": "None",
     "listings": 11
   },
   {
@@ -2082,7 +2084,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Great Axe (Legendary) A",
     "type": "Axe - Lv. 30",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItVQM8mSE08yUC-kLyV_U1pl8Y",
-    "price": "$0.13",
+    "price": "None",
     "listings": 22
   },
   {
@@ -2090,7 +2092,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Great Sword (Arcana) A",
     "type": "Sword - Lv. 20",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlaSsJRIk48yUeg1fyCFvGJsiZzxA",
-    "price": "$1.39",
+    "price": "None",
     "listings": 22
   },
   {
@@ -2098,7 +2100,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Great Sword (Immortal) A",
     "type": "Sword - Lv. 20",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlaSsJRIk48yUeg1fyCFvGJsiZzxA",
-    "price": "$0.38",
+    "price": "None",
     "listings": 49
   },
   {
@@ -2106,7 +2108,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Great Sword (Legendary) A",
     "type": "Sword - Lv. 20",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlaSsJRIk48yUeg1fyCFvGJsiZzxA",
-    "price": "$0.08",
+    "price": "None",
     "listings": 237
   },
   {
@@ -2114,7 +2116,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Griffin Beak",
     "type": "Engraving Material",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTE85yUeizqKcH_ThvPIp",
-    "price": "$1.35",
+    "price": "None",
     "listings": 207
   },
   {
@@ -2122,7 +2124,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Harpy Feather",
     "type": "Engraving Material",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTE8_yUeizqKcH_84G2al",
-    "price": "$0.14",
+    "price": "None",
     "listings": 376
   },
   {
@@ -2130,7 +2132,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Haste Arrow (Arcana) A",
     "type": "Arrow - Lv. 65",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItfV99CIkk9yUeh1PyCFvFwJGSIxg",
-    "price": "$6.90",
+    "price": "None",
     "listings": 1
   },
   {
@@ -2138,7 +2140,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Haste Arrow (Immortal) A",
     "type": "Arrow - Lv. 65",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItfV99CIkk9yUeh1PyCFvFwJGSIxg",
-    "price": "$4.31",
+    "price": "None",
     "listings": 4
   },
   {
@@ -2146,7 +2148,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Haste Arrow (Legendary) A",
     "type": "Arrow - Lv. 65",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItfV99CIkk9yUeh1PyCFvFwJGSIxg",
-    "price": "$0.86",
+    "price": "None",
     "listings": 26
   },
   {
@@ -2154,7 +2156,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Haste Bolt (Immortal) A",
     "type": "Bolt - Lv. 65",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhCScRKSUk8yUakzqKcH_rr98GO",
-    "price": "$2.53",
+    "price": "None",
     "listings": 3
   },
   {
@@ -2162,7 +2164,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Haste Bolt (Legendary) A",
     "type": "Bolt - Lv. 65",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhCScRKSUk8yUakzqKcH_rr98GO",
-    "price": "$0.69",
+    "price": "None",
     "listings": 13
   },
   {
@@ -2170,7 +2172,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Healing Herb",
     "type": "Engraving Material",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTE89yUekzqKcHxk82PZ5",
-    "price": "$0.04",
+    "price": "None",
     "listings": 118
   },
   {
@@ -2178,7 +2180,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Heater Shield (Arcana) A",
     "type": "Shield - Lv. 15",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlFTNVZOSI4yUeg0ObcCPhXLNP7nlU",
-    "price": "$1.70",
+    "price": "None",
     "listings": 16
   },
   {
@@ -2186,7 +2188,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Heater Shield (Immortal) A",
     "type": "Shield - Lv. 15",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlFTNVZOSI4yUeg0ObcCPhXLNP7nlU",
-    "price": "$0.37",
+    "price": "None",
     "listings": 55
   },
   {
@@ -2194,7 +2196,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Heater Shield (Legendary) A",
     "type": "Shield - Lv. 15",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlFTNVZOSI4yUeg0ObcCPhXLNP7nlU",
-    "price": "$0.12",
+    "price": "None",
     "listings": 119
   },
   {
@@ -2202,7 +2204,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Heavy Shield (Arcana) A",
     "type": "Shield - Lv. 20",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlFTNVZOSI4yUeg0OfcCPhXmXghbS8",
-    "price": "$2.48",
+    "price": "None",
     "listings": 12
   },
   {
@@ -2210,7 +2212,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Heavy Shield (Immortal) A",
     "type": "Shield - Lv. 20",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlFTNVZOSI4yUeg0OfcCPhXmXghbS8",
-    "price": "$0.50",
+    "price": "None",
     "listings": 43
   },
   {
@@ -2218,7 +2220,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Heavy Shield (Legendary) A",
     "type": "Shield - Lv. 20",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlFTNVZOSI4yUeg0OfcCPhXmXghbS8",
-    "price": "$0.16",
+    "price": "None",
     "listings": 65
   },
   {
@@ -2226,7 +2228,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Herald Staff (Immortal) A",
     "type": "Staff - Lv. 5",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlZRNZTIk4-yUeg0vyCFvFQzXVDUQ",
-    "price": "$0.18",
+    "price": "None",
     "listings": 38
   },
   {
@@ -2234,7 +2236,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Herald Staff (Legendary) A",
     "type": "Staff - Lv. 5",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlZRNZTIk4-yUeg0vyCFvFQzXVDUQ",
-    "price": "$0.06",
+    "price": "None",
     "listings": 74
   },
   {
@@ -2242,7 +2244,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Hunter's Arrow (Immortal) A",
     "type": "Arrow - Lv. 10",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItfV99CIkk9yUeg0_yCFvHIS02ZUQ",
-    "price": "$1.00",
+    "price": "None",
     "listings": 33
   },
   {
@@ -2250,7 +2252,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Hunter's Arrow (Legendary) A",
     "type": "Arrow - Lv. 10",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItfV99CIkk9yUeg0_yCFvHIS02ZUQ",
-    "price": "$0.37",
+    "price": "None",
     "listings": 60
   },
   {
@@ -2258,7 +2260,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Hunter's Bolt (Immortal) A",
     "type": "Bolt - Lv. 10",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhCScRKSUk8yUejzqKcH4JYbOrI",
-    "price": "$20.52",
+    "price": "None",
     "listings": 2
   },
   {
@@ -2266,7 +2268,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Hunter's Bolt (Legendary) A",
     "type": "Bolt - Lv. 10",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhCScRKSUk8yUejzqKcH4JYbOrI",
-    "price": "$7.65",
+    "price": "None",
     "listings": 2
   },
   {
@@ -2274,7 +2276,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Hunting Bow (Immortal) A",
     "type": "Bow - Lv. 5",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhCUs8mTE08yUW-kLyVaEBOz84",
-    "price": "$0.18",
+    "price": "None",
     "listings": 37
   },
   {
@@ -2282,7 +2284,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Hunting Bow (Legendary) A",
     "type": "Bow - Lv. 5",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhCUs8mTE08yUW-kLyVaEBOz84",
-    "price": "$0.07",
+    "price": "None",
     "listings": 80
   },
   {
@@ -2290,7 +2292,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Iron Arrow (Immortal) A",
     "type": "Arrow - Lv. 5",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItfV99CIkk9yUeg0vyCFvEkaTEnvg",
-    "price": "$0.81",
+    "price": "None",
     "listings": 7
   },
   {
@@ -2298,7 +2300,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Iron Arrow (Legendary) A",
     "type": "Arrow - Lv. 5",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItfV99CIkk9yUeg0vyCFvEkaTEnvg",
-    "price": "$0.47",
+    "price": "None",
     "listings": 15
   },
   {
@@ -2306,7 +2308,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Iron Axe (Immortal) A",
     "type": "Axe - Lv. 5",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItVQM8mSE08yUW-kLyVYg1DJIo",
-    "price": "$0.88",
+    "price": "None",
     "listings": 2
   },
   {
@@ -2314,7 +2316,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Iron Axe (Legendary) A",
     "type": "Axe - Lv. 5",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItVQM8mSE08yUW-kLyVYg1DJIo",
-    "price": "$0.47",
+    "price": "None",
     "listings": 9
   },
   {
@@ -2322,7 +2324,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Iron Bolt (Legendary) A",
     "type": "Bolt - Lv. 30",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhCScRKSUk8yUenzqKcH_Bxa_RF",
-    "price": "$2.88",
+    "price": "None",
     "listings": 4
   },
   {
@@ -2330,7 +2332,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Iron Boots (Immortal) A",
     "type": "Boots - Lv. 10",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhCSsRGIkg_yUeg0_yCFvHI2ln9rA",
-    "price": "$0.26",
+    "price": "None",
     "listings": 61
   },
   {
@@ -2338,7 +2340,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Iron Boots (Legendary) A",
     "type": "Boots - Lv. 10",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhCSsRGIkg_yUeg0_yCFvHI2ln9rA",
-    "price": "$0.07",
+    "price": "None",
     "listings": 194
   },
   {
@@ -2346,7 +2348,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Iron Crossbow (Arcana) A",
     "type": "Crossbow - Lv. 30",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIlfSsNGPzJbpkSk0OLCT7hANiaFSfv86g",
-    "price": "$9.38",
+    "price": "None",
     "listings": 6
   },
   {
@@ -2354,7 +2356,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Iron Crossbow (Immortal) A",
     "type": "Crossbow - Lv. 30",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIlfSsNGPzJbpkSk0OLCT7hANiaFSfv86g",
-    "price": "$4.06",
+    "price": "None",
     "listings": 6
   },
   {
@@ -2362,7 +2364,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Iron Crossbow (Legendary) A",
     "type": "Crossbow - Lv. 30",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIlfSsNGPzJbpkSk0OLCT7hANiaFSfv86g",
-    "price": "$0.83",
+    "price": "None",
     "listings": 23
   },
   {
@@ -2370,7 +2372,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Iron Gloves (Immortal) A",
     "type": "Gloves - Lv. 10",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsI1BSsZQLiI5y0eg0OHcCPhXg-lhwWg",
-    "price": "$0.28",
+    "price": "None",
     "listings": 60
   },
   {
@@ -2378,7 +2380,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Iron Gloves (Legendary) A",
     "type": "Gloves - Lv. 10",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsI1BSsZQLiI5y0eg0OHcCPhXg-lhwWg",
-    "price": "$0.07",
+    "price": "None",
     "listings": 120
   },
   {
@@ -2386,7 +2388,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Iron Helmet (Immortal) A",
     "type": "Helmet - Lv. 10",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIJISd1QKSI5yUeg0OHcCPhXUubWbDw",
-    "price": "$0.24",
+    "price": "None",
     "listings": 74
   },
   {
@@ -2394,7 +2396,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Iron Helmet (Legendary) A",
     "type": "Helmet - Lv. 10",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIJISd1QKSI5yUeg0OHcCPhXUubWbDw",
-    "price": "$0.08",
+    "price": "None",
     "listings": 116
   },
   {
@@ -2402,7 +2404,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Iron Ingot",
     "type": "Crafting Material",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTEk9yUeizqKcHwZM78KK",
-    "price": "$0.10",
+    "price": "None",
     "listings": 1695
   },
   {
@@ -2410,7 +2412,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Iron Plate (Immortal) A",
     "type": "Armor - Lv. 10",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItfSN9HIkg9yUeg0_yCFvGgq5PtrA",
-    "price": "$0.21",
+    "price": "None",
     "listings": 96
   },
   {
@@ -2418,7 +2420,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Iron Plate (Legendary) A",
     "type": "Armor - Lv. 10",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItfSN9HIkg9yUeg0_yCFvGgq5PtrA",
-    "price": "$0.09",
+    "price": "None",
     "listings": 124
   },
   {
@@ -2426,7 +2428,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Iron Scepter (Immortal) A",
     "type": "Scepter - Lv. 5",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlOQMBBOC9TykSg0OLAVuZeP6Tfz_FN",
-    "price": "$0.21",
+    "price": "None",
     "listings": 33
   },
   {
@@ -2434,7 +2436,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Iron Scepter (Legendary) A",
     "type": "Scepter - Lv. 5",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlOQMBBOC9TykSg0OLAVuZeP6Tfz_FN",
-    "price": "$0.06",
+    "price": "None",
     "listings": 70
   },
   {
@@ -2442,7 +2444,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Iron Shield (Immortal) A",
     "type": "Shield - Lv. 10",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlFTNVZOSI4yUeg0OHcCPhXtuxcoyU",
-    "price": "$0.53",
+    "price": "None",
     "listings": 46
   },
   {
@@ -2450,7 +2452,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Iron Shield (Legendary) A",
     "type": "Shield - Lv. 10",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlFTNVZOSI4yUeg0OHcCPhXtuxcoyU",
-    "price": "$0.14",
+    "price": "None",
     "listings": 99
   },
   {
@@ -2458,7 +2460,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Iron Tome (Immortal) A",
     "type": "Tome - Lv. 10",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJ5CSNVKSU48yUejzqKcHy2-a6KT",
-    "price": "$0.75",
+    "price": "None",
     "listings": 35
   },
   {
@@ -2466,7 +2468,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Iron Tome (Legendary) A",
     "type": "Tome - Lv. 10",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJ5CSNVKSU48yUejzqKcHy2-a6KT",
-    "price": "$0.31",
+    "price": "None",
     "listings": 62
   },
   {
@@ -2474,7 +2476,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Jade Stone",
     "type": "Decoration Material",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTEw9yUejzqKcHzoNjncj",
-    "price": "$0.04",
+    "price": "None",
     "listings": 441
   },
   {
@@ -2482,7 +2484,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Kingdom 10th Anniversary Coin",
     "type": "Offering Material",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTEs8yUejzqKcH_stQcdC",
-    "price": "$1.72",
+    "price": "None",
     "listings": 105
   },
   {
@@ -2490,7 +2492,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Kingdom 1st Anniversary Coin",
     "type": "Offering Material",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTEs8yUehzqKcH1ZhPJbd",
-    "price": "$0.29",
+    "price": "None",
     "listings": 216
   },
   {
@@ -2498,7 +2500,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Kingdom 50th Anniversary Coin",
     "type": "Offering Material",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTEs8yUelzqKcH6a7Tfse",
-    "price": "$9.04",
+    "price": "None",
     "listings": 21
   },
   {
@@ -2506,7 +2508,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Knight Boots (Arcana) A",
     "type": "Boots - Lv. 15",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhCSsRGIkg_yUeg1PyCFvFVoQ3LPQ",
-    "price": "$14.65",
+    "price": "None",
     "listings": 1
   },
   {
@@ -2514,7 +2516,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Knight Boots (Immortal) A",
     "type": "Boots - Lv. 15",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhCSsRGIkg_yUeg1PyCFvFVoQ3LPQ",
-    "price": "$0.27",
+    "price": "None",
     "listings": 62
   },
   {
@@ -2522,7 +2524,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Knight Boots (Legendary) A",
     "type": "Boots - Lv. 15",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhCSsRGIkg_yUeg1PyCFvFVoQ3LPQ",
-    "price": "$0.08",
+    "price": "None",
     "listings": 100
   },
   {
@@ -2530,7 +2532,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Knight Gloves (Arcana) A",
     "type": "Gloves - Lv. 15",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsI1BSsZQLiI5y0eg0ObcCPhXzqQSg_4",
-    "price": "$1.53",
+    "price": "None",
     "listings": 14
   },
   {
@@ -2538,7 +2540,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Knight Gloves (Immortal) A",
     "type": "Gloves - Lv. 15",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsI1BSsZQLiI5y0eg0ObcCPhXzqQSg_4",
-    "price": "$0.23",
+    "price": "None",
     "listings": 67
   },
   {
@@ -2546,7 +2548,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Knight Gloves (Legendary) A",
     "type": "Gloves - Lv. 15",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsI1BSsZQLiI5y0eg0ObcCPhXzqQSg_4",
-    "price": "$0.08",
+    "price": "None",
     "listings": 176
   },
   {
@@ -2554,7 +2556,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Knight Helmet (Arcana) A",
     "type": "Helmet - Lv. 15",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIJISd1QKSI5yUeg0ObcCPhXz6yFpDk",
-    "price": "$1.29",
+    "price": "None",
     "listings": 22
   },
   {
@@ -2562,7 +2564,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Knight Helmet (Immortal) A",
     "type": "Helmet - Lv. 15",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIJISd1QKSI5yUeg0ObcCPhXz6yFpDk",
-    "price": "$0.23",
+    "price": "None",
     "listings": 46
   },
   {
@@ -2570,7 +2572,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Knight Helmet (Legendary) A",
     "type": "Helmet - Lv. 15",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIJISd1QKSI5yUeg0ObcCPhXz6yFpDk",
-    "price": "$0.09",
+    "price": "None",
     "listings": 106
   },
   {
@@ -2578,7 +2580,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Knight Sword (Arcana) A",
     "type": "Sword - Lv. 30",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlaSsJRIk48yUeg1_yCFvFztzlr8A",
-    "price": "$1.39",
+    "price": "None",
     "listings": 25
   },
   {
@@ -2586,7 +2588,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Knight Sword (Beyond) A",
     "type": "Sword - Lv. 30",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlaSsJRIk48yUeg1_yCFvFztzlr8A",
-    "price": "$4.39",
+    "price": "None",
     "listings": 3
   },
   {
@@ -2594,7 +2596,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Knight Sword (Immortal) A",
     "type": "Sword - Lv. 30",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlaSsJRIk48yUeg1_yCFvFztzlr8A",
-    "price": "$0.31",
+    "price": "None",
     "listings": 57
   },
   {
@@ -2602,7 +2604,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Knight Sword (Legendary) A",
     "type": "Sword - Lv. 30",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlaSsJRIk48yUeg1_yCFvFztzlr8A",
-    "price": "$0.10",
+    "price": "None",
     "listings": 44
   },
   {
@@ -2610,7 +2612,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Knight's Armor (Arcana) A",
     "type": "Armor - Lv. 20",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItfSN9HIkg9yUeg1fyCFvETj4jKdQ",
-    "price": "$3.26",
+    "price": "None",
     "listings": 24
   },
   {
@@ -2618,7 +2620,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Knight's Armor (Immortal) A",
     "type": "Armor - Lv. 20",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItfSN9HIkg9yUeg1fyCFvETj4jKdQ",
-    "price": "$0.93",
+    "price": "None",
     "listings": 30
   },
   {
@@ -2626,7 +2628,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Knight's Armor (Legendary) A",
     "type": "Armor - Lv. 20",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItfSN9HIkg9yUeg1fyCFvETj4jKdQ",
-    "price": "$0.18",
+    "price": "None",
     "listings": 103
   },
   {
@@ -2634,7 +2636,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Knight's Tome (Arcana) A",
     "type": "Tome - Lv. 15",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJ5CSNVKSU48yUekzqKcH-CR8j1h",
-    "price": "$3.72",
+    "price": "None",
     "listings": 12
   },
   {
@@ -2642,7 +2644,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Knight's Tome (Immortal) A",
     "type": "Tome - Lv. 15",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJ5CSNVKSU48yUekzqKcH-CR8j1h",
-    "price": "$1.17",
+    "price": "None",
     "listings": 25
   },
   {
@@ -2650,7 +2652,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Knight's Tome (Legendary) A",
     "type": "Tome - Lv. 15",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJ5CSNVKSU48yUekzqKcH-CR8j1h",
-    "price": "$0.52",
+    "price": "None",
     "listings": 47
   },
   {
@@ -2658,7 +2660,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Kraken Ink",
     "type": "Engraving Material",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTE86yUeizqKcHyHYY43P",
-    "price": "$1.76",
+    "price": "None",
     "listings": 21
   },
   {
@@ -2666,7 +2668,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Lapis Lazuli",
     "type": "Decoration Material",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTEw4yUejzqKcH1P7M0MP",
-    "price": "$0.27",
+    "price": "None",
     "listings": 335
   },
   {
@@ -2674,7 +2676,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Leather",
     "type": "Crafting Material",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTEk8yUejzqKcHw9udK7N",
-    "price": "$0.05",
+    "price": "None",
     "listings": 606
   },
   {
@@ -2682,7 +2684,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Leather Crossbow (Immortal) A",
     "type": "Crossbow - Lv. 5",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIlfSsNGPzJbpkSk0OLCSrhANia7_Y7sVA",
-    "price": "$1.44",
+    "price": "None",
     "listings": 3
   },
   {
@@ -2690,7 +2692,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Leather Crossbow (Legendary) A",
     "type": "Crossbow - Lv. 5",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIlfSsNGPzJbpkSk0OLCSrhANia7_Y7sVA",
-    "price": "$0.55",
+    "price": "None",
     "listings": 4
   },
   {
@@ -2698,7 +2700,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Leather Gloves (Immortal) A",
     "type": "Gloves - Lv. 1",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsI1BSsZQLiI5y0eg0OPcCPhXg2wWg_Y",
-    "price": "$0.18",
+    "price": "None",
     "listings": 17
   },
   {
@@ -2706,7 +2708,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Leather Gloves (Legendary) A",
     "type": "Gloves - Lv. 1",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsI1BSsZQLiI5y0eg0OPcCPhXg2wWg_Y",
-    "price": "$0.07",
+    "price": "None",
     "listings": 31
   },
   {
@@ -2714,7 +2716,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Leather Hatchet (Legendary) A",
     "type": "Hatchet - Lv. 5",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIJMUdNdOClTzUKg0OLAVuZeP8BtMlv7",
-    "price": "$1.38",
+    "price": "None",
     "listings": 1
   },
   {
@@ -2722,7 +2724,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Limitless Axe (Arcana) A",
     "type": "Axe - Lv. 65",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItVQM8mSE08yEO-kLyV1Jo8p5c",
-    "price": "$3.60",
+    "price": "None",
     "listings": 6
   },
   {
@@ -2730,7 +2732,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Limitless Axe (Immortal) A",
     "type": "Axe - Lv. 65",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItVQM8mSE08yEO-kLyV1Jo8p5c",
-    "price": "$0.94",
+    "price": "None",
     "listings": 9
   },
   {
@@ -2738,7 +2740,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Limitless Axe (Legendary) A",
     "type": "Axe - Lv. 65",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItVQM8mSE08yEO-kLyV1Jo8p5c",
-    "price": "$0.28",
+    "price": "None",
     "listings": 19
   },
   {
@@ -2746,7 +2748,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Limitless Bow (Arcana) A",
     "type": "Bow - Lv. 65",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhCUs8mTE08yEO-kLyVszpW2hw",
-    "price": "$21.52",
+    "price": "None",
     "listings": 9
   },
   {
@@ -2754,7 +2756,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Limitless Bow (Beyond) A",
     "type": "Bow - Lv. 65",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhCUs8mTE08yEO-kLyVszpW2hw",
-    "price": "$8.32",
+    "price": "None",
     "listings": 1
   },
   {
@@ -2762,7 +2764,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Limitless Bow (Immortal) A",
     "type": "Bow - Lv. 65",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhCUs8mTE08yEO-kLyVszpW2hw",
-    "price": "$2.13",
+    "price": "None",
     "listings": 15
   },
   {
@@ -2770,7 +2772,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Limitless Bow (Legendary) A",
     "type": "Bow - Lv. 65",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhCUs8mTE08yEO-kLyVszpW2hw",
-    "price": "$0.29",
+    "price": "None",
     "listings": 58
   },
   {
@@ -2778,7 +2780,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Limitless Crossbow (Arcana) A",
     "type": "Crossbow - Lv. 65",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIlfSsNGPzJbpkSk0OLDTLhANiYel3xWxw",
-    "price": "$4.84",
+    "price": "None",
     "listings": 5
   },
   {
@@ -2786,7 +2788,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Limitless Crossbow (Beyond) A",
     "type": "Crossbow - Lv. 65",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIlfSsNGPzJbpkSk0OLDTLhANiYel3xWxw",
-    "price": "$8.32",
+    "price": "None",
     "listings": 1
   },
   {
@@ -2794,7 +2796,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Limitless Crossbow (Immortal) A",
     "type": "Crossbow - Lv. 65",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIlfSsNGPzJbpkSk0OLDTLhANiYel3xWxw",
-    "price": "$2.46",
+    "price": "None",
     "listings": 5
   },
   {
@@ -2802,7 +2804,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Limitless Crossbow (Legendary) A",
     "type": "Crossbow - Lv. 65",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIlfSsNGPzJbpkSk0OLDTLhANiYel3xWxw",
-    "price": "$0.28",
+    "price": "None",
     "listings": 22
   },
   {
@@ -2810,7 +2812,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Limitless Hatchet (Arcana) A",
     "type": "Hatchet - Lv. 65",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIJMUdNdOClTzUKg0OPGVuZePy5vzk9s",
-    "price": "$4.84",
+    "price": "None",
     "listings": 1
   },
   {
@@ -2818,7 +2820,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Limitless Hatchet (Immortal) A",
     "type": "Hatchet - Lv. 65",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIJMUdNdOClTzUKg0OPGVuZePy5vzk9s",
-    "price": "$2.00",
+    "price": "None",
     "listings": 4
   },
   {
@@ -2826,7 +2828,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Limitless Hatchet (Legendary) A",
     "type": "Hatchet - Lv. 65",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIJMUdNdOClTzUKg0OPGVuZePy5vzk9s",
-    "price": "$0.47",
+    "price": "None",
     "listings": 12
   },
   {
@@ -2834,7 +2836,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Limitless Scepter (Arcana) A",
     "type": "Scepter - Lv. 65",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlOQMBBOC9TykSg0OPGVuZeP3yh72a_",
-    "price": "$3.56",
+    "price": "None",
     "listings": 11
   },
   {
@@ -2842,7 +2844,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Limitless Scepter (Beyond) A",
     "type": "Scepter - Lv. 65",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlOQMBBOC9TykSg0OPGVuZeP3yh72a_",
-    "price": "$8.98",
+    "price": "None",
     "listings": 1
   },
   {
@@ -2850,7 +2852,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Limitless Scepter (Immortal) A",
     "type": "Scepter - Lv. 65",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlOQMBBOC9TykSg0OPGVuZeP3yh72a_",
-    "price": "$0.92",
+    "price": "None",
     "listings": 24
   },
   {
@@ -2858,7 +2860,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Limitless Scepter (Legendary) A",
     "type": "Scepter - Lv. 65",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlOQMBBOC9TykSg0OPGVuZeP3yh72a_",
-    "price": "$0.36",
+    "price": "None",
     "listings": 40
   },
   {
@@ -2866,7 +2868,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Long Bow (Immortal) A",
     "type": "Bow - Lv. 10",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhCUs8mTE08yUS-kLyVQRqvOk4",
-    "price": "$0.18",
+    "price": "None",
     "listings": 105
   },
   {
@@ -2874,7 +2876,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Long Bow (Legendary) A",
     "type": "Bow - Lv. 10",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhCUs8mTE08yUS-kLyVQRqvOk4",
-    "price": "$0.06",
+    "price": "None",
     "listings": 436
   },
   {
@@ -2882,7 +2884,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Long Crossbow (Immortal) A",
     "type": "Crossbow - Lv. 10",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIlfSsNGPzJbpkSk0OLCS7hANiaqn4OXJg",
-    "price": "$2.48",
+    "price": "None",
     "listings": 13
   },
   {
@@ -2890,7 +2892,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Long Crossbow (Legendary) A",
     "type": "Crossbow - Lv. 10",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIlfSsNGPzJbpkSk0OLCS7hANiaqn4OXJg",
-    "price": "$0.32",
+    "price": "None",
     "listings": 26
   },
   {
@@ -2898,7 +2900,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Long Hatchet (Immortal) A",
     "type": "Hatchet - Lv. 10",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIJMUdNdOClTzUKg0OLBVuZeP9fXxPEd",
-    "price": "$2.78",
+    "price": "None",
     "listings": 2
   },
   {
@@ -2906,7 +2908,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Long Hatchet (Legendary) A",
     "type": "Hatchet - Lv. 10",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIJMUdNdOClTzUKg0OLBVuZeP9fXxPEd",
-    "price": "$1.38",
+    "price": "None",
     "listings": 2
   },
   {
@@ -2914,7 +2916,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Long Staff (Immortal) A",
     "type": "Staff - Lv. 10",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlZRNZTIk4-yUeg0_yCFvFYzowVqg",
-    "price": "$0.19",
+    "price": "None",
     "listings": 109
   },
   {
@@ -2922,7 +2924,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Long Staff (Legendary) A",
     "type": "Staff - Lv. 10",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlZRNZTIk4-yUeg0_yCFvFYzowVqg",
-    "price": "$0.06",
+    "price": "None",
     "listings": 347
   },
   {
@@ -2930,7 +2932,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Long Sword (Immortal) A",
     "type": "Sword - Lv. 1",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlaSsJRIk48yUeg0fyCFvGTqOEUqg",
-    "price": "$0.18",
+    "price": "None",
     "listings": 39
   },
   {
@@ -2938,7 +2940,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Long Sword (Legendary) A",
     "type": "Sword - Lv. 1",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlaSsJRIk48yUeg0fyCFvGTqOEUqg",
-    "price": "$0.07",
+    "price": "None",
     "listings": 41
   },
   {
@@ -2946,7 +2948,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Magic Orb (Immortal) A",
     "type": "Orb - Lv. 1",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIVfR88hT008yUa-kLyVbq_ifFU",
-    "price": "$1.05",
+    "price": "None",
     "listings": 12
   },
   {
@@ -2954,7 +2956,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Magic Orb (Legendary) A",
     "type": "Orb - Lv. 1",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIVfR88hT008yUa-kLyVbq_ifFU",
-    "price": "$0.18",
+    "price": "None",
     "listings": 18
   },
   {
@@ -2962,7 +2964,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Mandrake Root",
     "type": "Engraving Material",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTE8_yUejzqKcH3P3ys-X",
-    "price": "$0.14",
+    "price": "None",
     "listings": 477
   },
   {
@@ -2970,7 +2972,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Minor Amethyst",
     "type": "Decoration Material",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTEw8yUelzqKcH25zIZYW",
-    "price": "$0.04",
+    "price": "None",
     "listings": 1251
   },
   {
@@ -2978,7 +2980,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Minor Emerald",
     "type": "Decoration Material",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTEw8yUekzqKcH3anKO86",
-    "price": "$0.10",
+    "price": "None",
     "listings": 320
   },
   {
@@ -2986,7 +2988,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Minor Ruby",
     "type": "Decoration Material",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTEw8yUehzqKcH8X1Pc4b",
-    "price": "$0.13",
+    "price": "None",
     "listings": 484
   },
   {
@@ -2994,7 +2996,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Minor Sapphire",
     "type": "Decoration Material",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTEw8yUeizqKcH3jdtwGa",
-    "price": "$0.03",
+    "price": "None",
     "listings": 3380
   },
   {
@@ -3002,7 +3004,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Minor Topaz",
     "type": "Decoration Material",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTEw8yUejzqKcHzzzPvQ-",
-    "price": "$0.08",
+    "price": "None",
     "listings": 505
   },
   {
@@ -3010,7 +3012,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Minotaur Horn",
     "type": "Engraving Material",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTE85yUehzqKcH8N5dLbr",
-    "price": "$0.66",
+    "price": "None",
     "listings": 216
   },
   {
@@ -3018,7 +3020,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Moonstone",
     "type": "Crafting Material",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTEk7yUehzqKcH8-0390m",
-    "price": "$11.07",
+    "price": "None",
     "listings": 2
   },
   {
@@ -3026,7 +3028,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Moonstone Pendant (Arcana) A",
     "type": "Amulet - Lv. 30",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItAUNxQKSI6yUeg0OXcCPhX8iMu0ic",
-    "price": "$25.02",
+    "price": "None",
     "listings": 1
   },
   {
@@ -3034,7 +3036,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Moonstone Pendant (Immortal) A",
     "type": "Amulet - Lv. 30",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItAUNxQKSI6yUeg0OXcCPhX8iMu0ic",
-    "price": "$2.76",
+    "price": "None",
     "listings": 12
   },
   {
@@ -3042,7 +3044,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Moonstone Pendant (Legendary) A",
     "type": "Amulet - Lv. 30",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItAUNxQKSI6yUeg0OXcCPhX8iMu0ic",
-    "price": "$1.87",
+    "price": "None",
     "listings": 9
   },
   {
@@ -3050,7 +3052,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Mushroom Spore",
     "type": "Engraving Material",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTE8-yUejzqKcH25W-dcP",
-    "price": "$0.05",
+    "price": "None",
     "listings": 64
   },
   {
@@ -3058,7 +3060,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Mystic Armor (Arcana) A",
     "type": "Armor - Lv. 50",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItfSN9HIkg9yUeh0fyCFvFAiQmlUA",
-    "price": "$6.74",
+    "price": "None",
     "listings": 2
   },
   {
@@ -3066,7 +3068,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Mystic Armor (Beyond) A",
     "type": "Armor - Lv. 50",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItfSN9HIkg9yUeh0fyCFvFAiQmlUA",
-    "price": "$5.22",
+    "price": "None",
     "listings": 2
   },
   {
@@ -3074,7 +3076,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Mystic Armor (Immortal) A",
     "type": "Armor - Lv. 50",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItfSN9HIkg9yUeh0fyCFvFAiQmlUA",
-    "price": "$2.04",
+    "price": "None",
     "listings": 8
   },
   {
@@ -3082,7 +3084,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Mystic Armor (Legendary) A",
     "type": "Armor - Lv. 50",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItfSN9HIkg9yUeh0fyCFvFAiQmlUA",
-    "price": "$0.51",
+    "price": "None",
     "listings": 19
   },
   {
@@ -3090,7 +3092,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Mystic Boots (Arcana) A",
     "type": "Boots - Lv. 50",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhCSsRGIkg_yUeh0fyCFvFwkcNL8g",
-    "price": "$5.13",
+    "price": "None",
     "listings": 2
   },
   {
@@ -3098,7 +3100,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Mystic Boots (Beyond) A",
     "type": "Boots - Lv. 50",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhCSsRGIkg_yUeh0fyCFvFwkcNL8g",
-    "price": "$8.63",
+    "price": "None",
     "listings": 3
   },
   {
@@ -3106,7 +3108,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Mystic Boots (Immortal) A",
     "type": "Boots - Lv. 50",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhCSsRGIkg_yUeh0fyCFvFwkcNL8g",
-    "price": "$2.45",
+    "price": "None",
     "listings": 9
   },
   {
@@ -3114,7 +3116,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Mystic Boots (Legendary) A",
     "type": "Boots - Lv. 50",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhCSsRGIkg_yUeh0fyCFvFwkcNL8g",
-    "price": "$0.38",
+    "price": "None",
     "listings": 25
   },
   {
@@ -3122,7 +3124,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Mystic Bow (Arcana) A",
     "type": "Bow - Lv. 50",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhCUs8mTE08yEa-kLyVU-v7BBI",
-    "price": "$23.16",
+    "price": "None",
     "listings": 1
   },
   {
@@ -3130,7 +3132,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Mystic Bow (Beyond) A",
     "type": "Bow - Lv. 50",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhCUs8mTE08yEa-kLyVU-v7BBI",
-    "price": "$84.29",
+    "price": "None",
     "listings": 2
   },
   {
@@ -3138,7 +3140,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Mystic Bow (Immortal) A",
     "type": "Bow - Lv. 50",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhCUs8mTE08yEa-kLyVU-v7BBI",
-    "price": "$1.93",
+    "price": "None",
     "listings": 12
   },
   {
@@ -3146,7 +3148,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Mystic Bow (Legendary) A",
     "type": "Bow - Lv. 50",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhCUs8mTE08yEa-kLyVU-v7BBI",
-    "price": "$0.55",
+    "price": "None",
     "listings": 26
   },
   {
@@ -3154,7 +3156,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Mystic Crossbow (Arcana) A",
     "type": "Crossbow - Lv. 50",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIlfSsNGPzJbpkSk0OLDSbhANibYAwBASA",
-    "price": "$12.00",
+    "price": "None",
     "listings": 2
   },
   {
@@ -3162,7 +3164,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Mystic Crossbow (Beyond) A",
     "type": "Crossbow - Lv. 50",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIlfSsNGPzJbpkSk0OLDSbhANibYAwBASA",
-    "price": "$89.85",
+    "price": "None",
     "listings": 1
   },
   {
@@ -3170,7 +3172,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Mystic Crossbow (Immortal) A",
     "type": "Crossbow - Lv. 50",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIlfSsNGPzJbpkSk0OLDSbhANibYAwBASA",
-    "price": "$2.66",
+    "price": "None",
     "listings": 5
   },
   {
@@ -3178,7 +3180,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Mystic Crossbow (Legendary) A",
     "type": "Crossbow - Lv. 50",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIlfSsNGPzJbpkSk0OLDSbhANibYAwBASA",
-    "price": "$0.31",
+    "price": "None",
     "listings": 31
   },
   {
@@ -3186,7 +3188,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Mystic Gloves (Arcana) A",
     "type": "Gloves - Lv. 50",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsI1BSsZQLiI5y0eg0ePcCPhXYY6Snj8",
-    "price": "$4.86",
+    "price": "None",
     "listings": 3
   },
   {
@@ -3194,7 +3196,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Mystic Gloves (Beyond) A",
     "type": "Gloves - Lv. 50",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsI1BSsZQLiI5y0eg0ePcCPhXYY6Snj8",
-    "price": "$81.73",
+    "price": "None",
     "listings": 1
   },
   {
@@ -3202,7 +3204,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Mystic Gloves (Immortal) A",
     "type": "Gloves - Lv. 50",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsI1BSsZQLiI5y0eg0ePcCPhXYY6Snj8",
-    "price": "$1.54",
+    "price": "None",
     "listings": 2
   },
   {
@@ -3210,7 +3212,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Mystic Gloves (Legendary) A",
     "type": "Gloves - Lv. 50",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsI1BSsZQLiI5y0eg0ePcCPhXYY6Snj8",
-    "price": "$0.27",
+    "price": "None",
     "listings": 23
   },
   {
@@ -3218,7 +3220,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Mystic Hatchet (Arcana) A",
     "type": "Hatchet - Lv. 50",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIJMUdNdOClTzUKg0OPDVuZePxlyrL23",
-    "price": "$5.54",
+    "price": "None",
     "listings": 2
   },
   {
@@ -3226,7 +3228,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Mystic Hatchet (Immortal) A",
     "type": "Hatchet - Lv. 50",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIJMUdNdOClTzUKg0OPDVuZePxlyrL23",
-    "price": "$2.69",
+    "price": "None",
     "listings": 3
   },
   {
@@ -3234,7 +3236,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Mystic Hatchet (Legendary) A",
     "type": "Hatchet - Lv. 50",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIJMUdNdOClTzUKg0OPDVuZePxlyrL23",
-    "price": "$0.25",
+    "price": "None",
     "listings": 21
   },
   {
@@ -3242,7 +3244,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Mystic Orb (Arcana) A",
     "type": "Orb - Lv. 50",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIVfR88hT008yEa-kLyVub0IWyA",
-    "price": "$5.54",
+    "price": "None",
     "listings": 2
   },
   {
@@ -3250,7 +3252,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Mystic Orb (Beyond) A",
     "type": "Orb - Lv. 50",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIVfR88hT008yEa-kLyVub0IWyA",
-    "price": "$9.02",
+    "price": "None",
     "listings": 1
   },
   {
@@ -3258,7 +3260,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Mystic Orb (Immortal) A",
     "type": "Orb - Lv. 50",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIVfR88hT008yEa-kLyVub0IWyA",
-    "price": "$2.46",
+    "price": "None",
     "listings": 9
   },
   {
@@ -3266,7 +3268,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Mystic Orb (Legendary) A",
     "type": "Orb - Lv. 50",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIVfR88hT008yEa-kLyVub0IWyA",
-    "price": "$0.27",
+    "price": "None",
     "listings": 26
   },
   {
@@ -3274,7 +3276,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Mystic Shield (Arcana) A",
     "type": "Shield - Lv. 50",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlFTNVZOSI4yUeg0ePcCPhXXlwYl6o",
-    "price": "$5.54",
+    "price": "None",
     "listings": 2
   },
   {
@@ -3282,7 +3284,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Mystic Shield (Beyond) A",
     "type": "Shield - Lv. 50",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlFTNVZOSI4yUeg0ePcCPhXXlwYl6o",
-    "price": "$9.02",
+    "price": "None",
     "listings": 2
   },
   {
@@ -3290,7 +3292,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Mystic Shield (Immortal) A",
     "type": "Shield - Lv. 50",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlFTNVZOSI4yUeg0ePcCPhXXlwYl6o",
-    "price": "$0.82",
+    "price": "None",
     "listings": 12
   },
   {
@@ -3298,7 +3300,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Mystic Shield (Legendary) A",
     "type": "Shield - Lv. 50",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlFTNVZOSI4yUeg0ePcCPhXXlwYl6o",
-    "price": "$0.29",
+    "price": "None",
     "listings": 15
   },
   {
@@ -3306,7 +3308,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Mystic Topaz",
     "type": "Decoration Material",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTEw5yUeizqKcH8NAvJ45",
-    "price": "$0.47",
+    "price": "None",
     "listings": 488
   },
   {
@@ -3314,7 +3316,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Nightshade Extract",
     "type": "Engraving Material",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTE8_yUekzqKcHw81kLE0",
-    "price": "$0.14",
+    "price": "None",
     "listings": 630
   },
   {
@@ -3322,7 +3324,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Novice Scepter (Immortal) A",
     "type": "Scepter - Lv. 1",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlOQMBBOC9TykSg0OLDVuZeP6RxPIf_",
-    "price": "$0.18",
+    "price": "None",
     "listings": 29
   },
   {
@@ -3330,7 +3332,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Novice Scepter (Legendary) A",
     "type": "Scepter - Lv. 1",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlOQMBBOC9TykSg0OLDVuZeP6RxPIf_",
-    "price": "$0.07",
+    "price": "None",
     "listings": 47
   },
   {
@@ -3338,7 +3340,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Obsidian Bracer (Arcana) A",
     "type": "Bracer - Lv. 30",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhfRNNQLyI6ykeg0OXcCPhXfiUZCNU",
-    "price": "$4.99",
+    "price": "None",
     "listings": 7
   },
   {
@@ -3346,7 +3348,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Obsidian Bracer (Beyond) A",
     "type": "Bracer - Lv. 30",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhfRNNQLyI6ykeg0OXcCPhXfiUZCNU",
-    "price": "$16.85",
+    "price": "None",
     "listings": 4
   },
   {
@@ -3354,7 +3356,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Obsidian Bracer (Immortal) A",
     "type": "Bracer - Lv. 30",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhfRNNQLyI6ykeg0OXcCPhXfiUZCNU",
-    "price": "$2.01",
+    "price": "None",
     "listings": 15
   },
   {
@@ -3362,7 +3364,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Obsidian Bracer (Legendary) A",
     "type": "Bracer - Lv. 30",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhfRNNQLyI6ykeg0OXcCPhXfiUZCNU",
-    "price": "$0.62",
+    "price": "None",
     "listings": 21
   },
   {
@@ -3370,7 +3372,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Obsidian Shard",
     "type": "Decoration Material",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTEw9yUehzqKcH8v9Hz6A",
-    "price": "$0.06",
+    "price": "None",
     "listings": 917
   },
   {
@@ -3378,7 +3380,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Ogre Blood",
     "type": "Engraving Material",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTE8-yUeizqKcH63tCMOA",
-    "price": "$0.07",
+    "price": "None",
     "listings": 157
   },
   {
@@ -3386,7 +3388,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Opal",
     "type": "Decoration Material",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTEw4yUeizqKcH3lQRqrM",
-    "price": "$0.60",
+    "price": "None",
     "listings": 390
   },
   {
@@ -3394,7 +3396,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Orichalcum Ore",
     "type": "Crafting Material",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTEk6yUeizqKcH3aOcmKy",
-    "price": "$1.78",
+    "price": "None",
     "listings": 84
   },
   {
@@ -3402,7 +3404,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Pearl",
     "type": "Decoration Material",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTEw_yUeizqKcH9N8U5WV",
-    "price": "$0.19",
+    "price": "None",
     "listings": 586
   },
   {
@@ -3410,7 +3412,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Phantom Emerald",
     "type": "Decoration Material",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTEw6yUejzqKcH4_yavp3",
-    "price": "$6.23",
+    "price": "None",
     "listings": 16
   },
   {
@@ -3418,7 +3420,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Phoenix Ash",
     "type": "Engraving Material",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTE85yUejzqKcH2902pDH",
-    "price": "$2.01",
+    "price": "None",
     "listings": 138
   },
   {
@@ -3426,7 +3428,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Platinum Amulet (Arcana) A",
     "type": "Amulet - Lv. 20",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItAUNxQKSI6yUeg0OfcCPhXTuz4Iig",
-    "price": "$21.10",
+    "price": "None",
     "listings": 1
   },
   {
@@ -3434,7 +3436,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Platinum Amulet (Immortal) A",
     "type": "Amulet - Lv. 20",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItAUNxQKSI6yUeg0OfcCPhXTuz4Iig",
-    "price": "$2.70",
+    "price": "None",
     "listings": 25
   },
   {
@@ -3442,7 +3444,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Platinum Amulet (Legendary) A",
     "type": "Amulet - Lv. 20",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItAUNxQKSI6yUeg0OfcCPhXTuz4Iig",
-    "price": "$2.92",
+    "price": "None",
     "listings": 6
   },
   {
@@ -3450,7 +3452,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Platinum Bracer (Arcana) A",
     "type": "Bracer - Lv. 20",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhfRNNQLyI6ykeg0OfcCPhXsMcZPhQ",
-    "price": "$4.07",
+    "price": "None",
     "listings": 11
   },
   {
@@ -3458,7 +3460,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Platinum Bracer (Immortal) A",
     "type": "Bracer - Lv. 20",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhfRNNQLyI6ykeg0OfcCPhXsMcZPhQ",
-    "price": "$1.43",
+    "price": "None",
     "listings": 30
   },
   {
@@ -3466,7 +3468,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Platinum Bracer (Legendary) A",
     "type": "Bracer - Lv. 20",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhfRNNQLyI6ykeg0OfcCPhXsMcZPhQ",
-    "price": "$0.72",
+    "price": "None",
     "listings": 13
   },
   {
@@ -3474,7 +3476,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Platinum Earring (Arcana) A",
     "type": "Earing - Lv. 20",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsI9MV9lbOiI6yEeg0OfcCPhXdb0rqnM",
-    "price": "$4.40",
+    "price": "None",
     "listings": 10
   },
   {
@@ -3482,7 +3484,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Platinum Earring (Immortal) A",
     "type": "Earing - Lv. 20",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsI9MV9lbOiI6yEeg0OfcCPhXdb0rqnM",
-    "price": "$1.68",
+    "price": "None",
     "listings": 33
   },
   {
@@ -3490,7 +3492,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Platinum Earring (Legendary) A",
     "type": "Earing - Lv. 20",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsI9MV9lbOiI6yEeg0OfcCPhXdb0rqnM",
-    "price": "$1.24",
+    "price": "None",
     "listings": 36
   },
   {
@@ -3498,7 +3500,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Platinum Ring (Arcana) A",
     "type": "Ring - Lv. 20",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJhES9dKS088yUelzqKcH5E5PsGV",
-    "price": "$4.39",
+    "price": "None",
     "listings": 5
   },
   {
@@ -3506,7 +3508,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Platinum Ring (Immortal) A",
     "type": "Ring - Lv. 20",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJhES9dKS088yUelzqKcH5E5PsGV",
-    "price": "$2.11",
+    "price": "None",
     "listings": 12
   },
   {
@@ -3514,7 +3516,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Platinum Ring (Legendary) A",
     "type": "Ring - Lv. 20",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJhES9dKS088yUelzqKcH5E5PsGV",
-    "price": "$1.34",
+    "price": "None",
     "listings": 26
   },
   {
@@ -3522,7 +3524,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Poisonous Herb",
     "type": "Engraving Material",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTE89yUejzqKcH04pe3mk",
-    "price": "$0.09",
+    "price": "None",
     "listings": 79
   },
   {
@@ -3530,7 +3532,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Prayer Tome (Immortal) A",
     "type": "Tome - Lv. 1",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJ5CSNVKSU48yUehzqKcH5JcB5dM",
-    "price": "$1.74",
+    "price": "None",
     "listings": 3
   },
   {
@@ -3538,7 +3540,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Prayer Tome (Legendary) A",
     "type": "Tome - Lv. 1",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJ5CSNVKSU48yUehzqKcH5JcB5dM",
-    "price": "$0.35",
+    "price": "None",
     "listings": 26
   },
   {
@@ -3546,7 +3548,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Prophecy Orb (Arcana) A",
     "type": "Orb - Lv. 20",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIVfR88hT008yUK-kLyVNlQRhs8",
-    "price": "$3.65",
+    "price": "None",
     "listings": 7
   },
   {
@@ -3554,7 +3556,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Prophecy Orb (Immortal) A",
     "type": "Orb - Lv. 20",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIVfR88hT008yUK-kLyVNlQRhs8",
-    "price": "$0.82",
+    "price": "None",
     "listings": 25
   },
   {
@@ -3562,7 +3564,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Prophecy Orb (Legendary) A",
     "type": "Orb - Lv. 20",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIVfR88hT008yUK-kLyVNlQRhs8",
-    "price": "$0.25",
+    "price": "None",
     "listings": 70
   },
   {
@@ -3570,7 +3572,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Radiant Shield (Arcana) A",
     "type": "Shield - Lv. 65",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlFTNVZOSI4yUeg0ebcCPhXDAht7Z8",
-    "price": "$4.31",
+    "price": "None",
     "listings": 2
   },
   {
@@ -3578,7 +3580,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Radiant Shield (Immortal) A",
     "type": "Shield - Lv. 65",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlFTNVZOSI4yUeg0ebcCPhXDAht7Z8",
-    "price": "$0.97",
+    "price": "None",
     "listings": 12
   },
   {
@@ -3586,7 +3588,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Radiant Shield (Legendary) A",
     "type": "Shield - Lv. 65",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlFTNVZOSI4yUeg0ebcCPhXDAht7Z8",
-    "price": "$0.35",
+    "price": "None",
     "listings": 26
   },
   {
@@ -3594,7 +3596,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Rapier (Immortal) A",
     "type": "Sword - Lv. 10",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlaSsJRIk48yUeg0_yCFvGwgSQrvQ",
-    "price": "$0.15",
+    "price": "None",
     "listings": 129
   },
   {
@@ -3602,7 +3604,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Rapier (Legendary) A",
     "type": "Sword - Lv. 10",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlaSsJRIk48yUeg0_yCFvGwgSQrvQ",
-    "price": "$0.06",
+    "price": "None",
     "listings": 436
   },
   {
@@ -3610,7 +3612,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Ruby",
     "type": "Decoration Material",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTEw-yUehzqKcH7cedjpL",
-    "price": "$0.46",
+    "price": "None",
     "listings": 406
   },
   {
@@ -3618,7 +3620,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Ruby Pendant (Arcana) A",
     "type": "Amulet - Lv. 40",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItAUNxQKSI6yUeg0OvcCPhX0moUmfY",
-    "price": "$4.83",
+    "price": "None",
     "listings": 2
   },
   {
@@ -3626,7 +3628,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Ruby Pendant (Immortal) A",
     "type": "Amulet - Lv. 40",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItAUNxQKSI6yUeg0OvcCPhX0moUmfY",
-    "price": "$0.37",
+    "price": "None",
     "listings": 9
   },
   {
@@ -3634,7 +3636,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Ruby Pendant (Legendary) A",
     "type": "Amulet - Lv. 40",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItAUNxQKSI6yUeg0OvcCPhX0moUmfY",
-    "price": "$2.01",
+    "price": "None",
     "listings": 20
   },
   {
@@ -3642,7 +3644,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Rune Arrow (Arcana) A",
     "type": "Arrow - Lv. 40",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItfV99CIkk9yUeg2fyCFvFmQa68uw",
-    "price": "$6.48",
+    "price": "None",
     "listings": 2
   },
   {
@@ -3650,7 +3652,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Rune Arrow (Beyond) A",
     "type": "Arrow - Lv. 40",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItfV99CIkk9yUeg2fyCFvFmQa68uw",
-    "price": "$18.47",
+    "price": "None",
     "listings": 2
   },
   {
@@ -3658,7 +3660,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Rune Arrow (Immortal) A",
     "type": "Arrow - Lv. 40",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItfV99CIkk9yUeg2fyCFvFmQa68uw",
-    "price": "$0.87",
+    "price": "None",
     "listings": 21
   },
   {
@@ -3666,7 +3668,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Rune Arrow (Legendary) A",
     "type": "Arrow - Lv. 40",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItfV99CIkk9yUeg2fyCFvFmQa68uw",
-    "price": "$0.26",
+    "price": "None",
     "listings": 42
   },
   {
@@ -3674,7 +3676,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Rune Axe (Arcana) A",
     "type": "Axe - Lv. 40",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItVQM8mSE08yU6-kLyVBkY_8Tc",
-    "price": "$2.93",
+    "price": "None",
     "listings": 5
   },
   {
@@ -3682,7 +3684,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Rune Axe (Immortal) A",
     "type": "Axe - Lv. 40",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItVQM8mSE08yU6-kLyVBkY_8Tc",
-    "price": "$0.81",
+    "price": "None",
     "listings": 32
   },
   {
@@ -3690,7 +3692,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Rune Axe (Legendary) A",
     "type": "Axe - Lv. 40",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItVQM8mSE08yU6-kLyVBkY_8Tc",
-    "price": "$0.14",
+    "price": "None",
     "listings": 24
   },
   {
@@ -3698,7 +3700,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Rune Bolt (Arcana) A",
     "type": "Bolt - Lv. 40",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhCScRKSUk8yUepzqKcHz33g1HY",
-    "price": "$9.27",
+    "price": "None",
     "listings": 1
   },
   {
@@ -3706,7 +3708,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Rune Bolt (Immortal) A",
     "type": "Bolt - Lv. 40",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhCScRKSUk8yUepzqKcHz33g1HY",
-    "price": "$2.77",
+    "price": "None",
     "listings": 5
   },
   {
@@ -3714,7 +3716,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Rune Bolt (Legendary) A",
     "type": "Bolt - Lv. 40",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhCScRKSUk8yUepzqKcHz33g1HY",
-    "price": "$1.86",
+    "price": "None",
     "listings": 6
   },
   {
@@ -3722,7 +3724,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Rune Boots (Arcana) A",
     "type": "Boots - Lv. 40",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhCSsRGIkg_yUeg2fyCFvEq2VjeoA",
-    "price": "$2.77",
+    "price": "None",
     "listings": 25
   },
   {
@@ -3730,7 +3732,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Rune Boots (Beyond) A",
     "type": "Boots - Lv. 40",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhCSsRGIkg_yUeg2fyCFvEq2VjeoA",
-    "price": "$9.00",
+    "price": "None",
     "listings": 2
   },
   {
@@ -3738,7 +3740,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Rune Boots (Immortal) A",
     "type": "Boots - Lv. 40",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhCSsRGIkg_yUeg2fyCFvEq2VjeoA",
-    "price": "$0.43",
+    "price": "None",
     "listings": 44
   },
   {
@@ -3746,7 +3748,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Rune Boots (Legendary) A",
     "type": "Boots - Lv. 40",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhCSsRGIkg_yUeg2fyCFvEq2VjeoA",
-    "price": "$0.11",
+    "price": "None",
     "listings": 51
   },
   {
@@ -3754,7 +3756,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Rune Gloves (Arcana) A",
     "type": "Gloves - Lv. 40",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsI1BSsZQLiI5y0eg0OvcCPhXyYYLRhY",
-    "price": "$3.75",
+    "price": "None",
     "listings": 13
   },
   {
@@ -3762,7 +3764,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Rune Gloves (Beyond) A",
     "type": "Gloves - Lv. 40",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsI1BSsZQLiI5y0eg0OvcCPhXyYYLRhY",
-    "price": "$6.07",
+    "price": "None",
     "listings": 6
   },
   {
@@ -3770,7 +3772,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Rune Gloves (Immortal) A",
     "type": "Gloves - Lv. 40",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsI1BSsZQLiI5y0eg0OvcCPhXyYYLRhY",
-    "price": "$0.70",
+    "price": "None",
     "listings": 18
   },
   {
@@ -3778,7 +3780,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Rune Gloves (Legendary) A",
     "type": "Gloves - Lv. 40",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsI1BSsZQLiI5y0eg0OvcCPhXyYYLRhY",
-    "price": "$0.12",
+    "price": "None",
     "listings": 65
   },
   {
@@ -3786,7 +3788,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Rune Helmet (Arcana) A",
     "type": "Helmet - Lv. 40",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIJISd1QKSI5yUeg0OvcCPhXW4qeX9E",
-    "price": "$5.01",
+    "price": "None",
     "listings": 6
   },
   {
@@ -3794,7 +3796,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Rune Helmet (Beyond) A",
     "type": "Helmet - Lv. 40",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIJISd1QKSI5yUeg0OvcCPhXW4qeX9E",
-    "price": "$8.93",
+    "price": "None",
     "listings": 6
   },
   {
@@ -3802,7 +3804,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Rune Helmet (Immortal) A",
     "type": "Helmet - Lv. 40",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIJISd1QKSI5yUeg0OvcCPhXW4qeX9E",
-    "price": "$0.48",
+    "price": "None",
     "listings": 86
   },
   {
@@ -3810,7 +3812,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Rune Helmet (Legendary) A",
     "type": "Helmet - Lv. 40",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIJISd1QKSI5yUeg0OvcCPhXW4qeX9E",
-    "price": "$0.13",
+    "price": "None",
     "listings": 48
   },
   {
@@ -3818,7 +3820,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Rune Orb (Arcana) A",
     "type": "Orb - Lv. 30",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIVfR88hT008yUC-kLyV2eT-7fM",
-    "price": "$3.15",
+    "price": "None",
     "listings": 7
   },
   {
@@ -3826,7 +3828,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Rune Orb (Beyond) A",
     "type": "Orb - Lv. 30",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIVfR88hT008yUC-kLyV2eT-7fM",
-    "price": "$6.26",
+    "price": "None",
     "listings": 2
   },
   {
@@ -3834,7 +3836,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Rune Orb (Immortal) A",
     "type": "Orb - Lv. 30",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIVfR88hT008yUC-kLyV2eT-7fM",
-    "price": "$0.55",
+    "price": "None",
     "listings": 43
   },
   {
@@ -3842,7 +3844,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Rune Orb (Legendary) A",
     "type": "Orb - Lv. 30",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIVfR88hT008yUC-kLyV2eT-7fM",
-    "price": "$0.15",
+    "price": "None",
     "listings": 58
   },
   {
@@ -3850,7 +3852,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Rune Plate (Arcana) A",
     "type": "Armor - Lv. 40",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItfSN9HIkg9yUeg2fyCFvHr7pwHMg",
-    "price": "$2.79",
+    "price": "None",
     "listings": 16
   },
   {
@@ -3858,7 +3860,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Rune Plate (Beyond) A",
     "type": "Armor - Lv. 40",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItfSN9HIkg9yUeg2fyCFvHr7pwHMg",
-    "price": "$8.32",
+    "price": "None",
     "listings": 5
   },
   {
@@ -3866,7 +3868,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Rune Plate (Immortal) A",
     "type": "Armor - Lv. 40",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItfSN9HIkg9yUeg2fyCFvHr7pwHMg",
-    "price": "$0.58",
+    "price": "None",
     "listings": 34
   },
   {
@@ -3874,7 +3876,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Rune Plate (Legendary) A",
     "type": "Armor - Lv. 40",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItfSN9HIkg9yUeg2fyCFvHr7pwHMg",
-    "price": "$0.12",
+    "price": "None",
     "listings": 66
   },
   {
@@ -3882,7 +3884,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Rune Scepter (Arcana) A",
     "type": "Scepter - Lv. 40",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlOQMBBOC9TykSg0OLLVuZeP5zZxr6M",
-    "price": "$2.00",
+    "price": "None",
     "listings": 18
   },
   {
@@ -3890,7 +3892,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Rune Scepter (Beyond) A",
     "type": "Scepter - Lv. 40",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlOQMBBOC9TykSg0OLLVuZeP5zZxr6M",
-    "price": "$8.56",
+    "price": "None",
     "listings": 4
   },
   {
@@ -3898,7 +3900,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Rune Scepter (Immortal) A",
     "type": "Scepter - Lv. 40",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlOQMBBOC9TykSg0OLLVuZeP5zZxr6M",
-    "price": "$0.36",
+    "price": "None",
     "listings": 69
   },
   {
@@ -3906,7 +3908,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Rune Scepter (Legendary) A",
     "type": "Scepter - Lv. 40",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlOQMBBOC9TykSg0OLLVuZeP5zZxr6M",
-    "price": "$0.14",
+    "price": "None",
     "listings": 113
   },
   {
@@ -3914,7 +3916,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Rune Sword (Arcana) A",
     "type": "Sword - Lv. 40",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlaSsJRIk48yUeg2fyCFvEdOMjfnQ",
-    "price": "$1.87",
+    "price": "None",
     "listings": 18
   },
   {
@@ -3922,7 +3924,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Rune Sword (Beyond) A",
     "type": "Sword - Lv. 40",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlaSsJRIk48yUeg2fyCFvEdOMjfnQ",
-    "price": "$8.32",
+    "price": "None",
     "listings": 1
   },
   {
@@ -3930,7 +3932,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Rune Sword (Immortal) A",
     "type": "Sword - Lv. 40",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlaSsJRIk48yUeg2fyCFvEdOMjfnQ",
-    "price": "$0.36",
+    "price": "None",
     "listings": 85
   },
   {
@@ -3938,7 +3940,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Rune Sword (Legendary) A",
     "type": "Sword - Lv. 40",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlaSsJRIk48yUeg2fyCFvEdOMjfnQ",
-    "price": "$0.13",
+    "price": "None",
     "listings": 118
   },
   {
@@ -3946,7 +3948,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Rune Tome (Arcana) A",
     "type": "Tome - Lv. 40",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJ5CSNVKSU48yUepzqKcHw2Z9icR",
-    "price": "$5.49",
+    "price": "None",
     "listings": 6
   },
   {
@@ -3954,7 +3956,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Rune Tome (Beyond) A",
     "type": "Tome - Lv. 40",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJ5CSNVKSU48yUepzqKcHw2Z9icR",
-    "price": "$9.90",
+    "price": "None",
     "listings": 3
   },
   {
@@ -3962,7 +3964,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Rune Tome (Immortal) A",
     "type": "Tome - Lv. 40",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJ5CSNVKSU48yUepzqKcHw2Z9icR",
-    "price": "$1.65",
+    "price": "None",
     "listings": 18
   },
   {
@@ -3970,7 +3972,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Rune Tome (Legendary) A",
     "type": "Tome - Lv. 40",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJ5CSNVKSU48yUepzqKcHw2Z9icR",
-    "price": "$0.28",
+    "price": "None",
     "listings": 32
   },
   {
@@ -3978,7 +3980,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Sacred Scepter (Arcana) A",
     "type": "Scepter - Lv. 20",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlOQMBBOC9TykSg0OLHVuZePy2pWIXu",
-    "price": "$3.59",
+    "price": "None",
     "listings": 23
   },
   {
@@ -3986,7 +3988,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Sacred Scepter (Immortal) A",
     "type": "Scepter - Lv. 20",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlOQMBBOC9TykSg0OLHVuZePy2pWIXu",
-    "price": "$0.72",
+    "price": "None",
     "listings": 72
   },
   {
@@ -3994,7 +3996,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Sacred Scepter (Legendary) A",
     "type": "Scepter - Lv. 20",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlOQMBBOC9TykSg0OLHVuZePy2pWIXu",
-    "price": "$0.09",
+    "price": "None",
     "listings": 243
   },
   {
@@ -4002,7 +4004,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Sacred Staff (Arcana) A",
     "type": "Staff - Lv. 65",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlZRNZTIk4-yUeh1PyCFvG8eqj7kg",
-    "price": "$5.54",
+    "price": "None",
     "listings": 3
   },
   {
@@ -4010,7 +4012,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Sacred Staff (Immortal) A",
     "type": "Staff - Lv. 65",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlZRNZTIk4-yUeh1PyCFvG8eqj7kg",
-    "price": "$0.84",
+    "price": "None",
     "listings": 30
   },
   {
@@ -4018,7 +4020,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Sacred Staff (Legendary) A",
     "type": "Staff - Lv. 65",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlZRNZTIk4-yUeh1PyCFvG8eqj7kg",
-    "price": "$0.27",
+    "price": "None",
     "listings": 53
   },
   {
@@ -4026,7 +4028,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Sage Staff (Arcana) A",
     "type": "Staff - Lv. 30",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlZRNZTIk4-yUeg1_yCFvHRersiOQ",
-    "price": "$1.93",
+    "price": "None",
     "listings": 7
   },
   {
@@ -4034,7 +4036,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Sage Staff (Beyond) A",
     "type": "Staff - Lv. 30",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlZRNZTIk4-yUeg1_yCFvHRersiOQ",
-    "price": "$6.99",
+    "price": "None",
     "listings": 5
   },
   {
@@ -4042,7 +4044,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Sage Staff (Immortal) A",
     "type": "Staff - Lv. 30",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlZRNZTIk4-yUeg1_yCFvHRersiOQ",
-    "price": "$0.48",
+    "price": "None",
     "listings": 47
   },
   {
@@ -4050,7 +4052,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Sage Staff (Legendary) A",
     "type": "Staff - Lv. 30",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlZRNZTIk4-yUeg1_yCFvHRersiOQ",
-    "price": "$0.11",
+    "price": "None",
     "listings": 77
   },
   {
@@ -4058,7 +4060,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Sapphire",
     "type": "Decoration Material",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTEw-yUeizqKcHwj4TlzP",
-    "price": "$0.07",
+    "price": "None",
     "listings": 381
   },
   {
@@ -4066,7 +4068,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Sapphire Earring (Arcana) A",
     "type": "Earing - Lv. 50",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsI9MV9lbOiI6yEeg0ePcCPhXtEVUvT8",
-    "price": "$5.54",
+    "price": "None",
     "listings": 1
   },
   {
@@ -4074,7 +4076,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Sapphire Earring (Immortal) A",
     "type": "Earing - Lv. 50",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsI9MV9lbOiI6yEeg0ePcCPhXtEVUvT8",
-    "price": "$2.77",
+    "price": "None",
     "listings": 6
   },
   {
@@ -4082,7 +4084,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Sapphire Earring (Legendary) A",
     "type": "Earing - Lv. 50",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsI9MV9lbOiI6yEeg0ePcCPhXtEVUvT8",
-    "price": "$1.24",
+    "price": "None",
     "listings": 11
   },
   {
@@ -4090,7 +4092,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Scroll of Arcana Inscription",
     "type": "Inscription Material",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTE45yUehzqKcH1Pki_Ke",
-    "price": "$7.75",
+    "price": "None",
     "listings": 19
   },
   {
@@ -4098,7 +4100,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Scroll of Common Inscription",
     "type": "Inscription Material",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTE48yUehzqKcH49PpVTj",
-    "price": "$0.09",
+    "price": "None",
     "listings": 79
   },
   {
@@ -4106,7 +4108,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Scroll of Immortal Inscription",
     "type": "Inscription Material",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTE44yUehzqKcH8fX-NGf",
-    "price": "$4.60",
+    "price": "None",
     "listings": 71
   },
   {
@@ -4114,7 +4116,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Scroll of Legendary Inscription",
     "type": "Inscription Material",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTE4_yUehzqKcHw7kQ1x2",
-    "price": "$2.42",
+    "price": "None",
     "listings": 83
   },
   {
@@ -4122,7 +4124,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Scroll of Rare Inscription",
     "type": "Inscription Material",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTE4-yUehzqKcH0itYchZ",
-    "price": "$1.15",
+    "price": "None",
     "listings": 200
   },
   {
@@ -4130,7 +4132,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Scroll of Uncommon Inscription",
     "type": "Inscription Material",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTE49yUehzqKcH4pWwOrN",
-    "price": "$0.23",
+    "price": "None",
     "listings": 503
   },
   {
@@ -4138,7 +4140,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Shadow Bow (Immortal) A",
     "type": "Bow - Lv. 80",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhCUs8mTE08yEC-kLyVyLhsABU",
-    "price": "$2.69",
+    "price": "None",
     "listings": 24
   },
   {
@@ -4146,7 +4148,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Shadow Bow (Legendary) A",
     "type": "Bow - Lv. 80",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhCUs8mTE08yEC-kLyVyLhsABU",
-    "price": "$0.54",
+    "price": "None",
     "listings": 41
   },
   {
@@ -4154,7 +4156,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Shine Armor (Arcana) A",
     "type": "Armor - Lv. 65",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItfSN9HIkg9yUeh1PyCFvGccMCVew",
-    "price": "$11.52",
+    "price": "None",
     "listings": 1
   },
   {
@@ -4162,7 +4164,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Shine Armor (Beyond) A",
     "type": "Armor - Lv. 65",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItfSN9HIkg9yUeh1PyCFvGccMCVew",
-    "price": "$9.02",
+    "price": "None",
     "listings": 1
   },
   {
@@ -4170,7 +4172,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Shine Armor (Immortal) A",
     "type": "Armor - Lv. 65",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItfSN9HIkg9yUeh1PyCFvGccMCVew",
-    "price": "$2.53",
+    "price": "None",
     "listings": 9
   },
   {
@@ -4178,7 +4180,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Shine Armor (Legendary) A",
     "type": "Armor - Lv. 65",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItfSN9HIkg9yUeh1PyCFvGccMCVew",
-    "price": "$0.29",
+    "price": "None",
     "listings": 12
   },
   {
@@ -4186,7 +4188,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Shine Boots (Arcana) A",
     "type": "Boots - Lv. 65",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhCSsRGIkg_yUeh1PyCFvE_jfhnkA",
-    "price": "$4.10",
+    "price": "None",
     "listings": 3
   },
   {
@@ -4194,7 +4196,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Shine Boots (Beyond) A",
     "type": "Boots - Lv. 65",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhCSsRGIkg_yUeh1PyCFvE_jfhnkA",
-    "price": "$11.24",
+    "price": "None",
     "listings": 1
   },
   {
@@ -4202,7 +4204,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Shine Boots (Immortal) A",
     "type": "Boots - Lv. 65",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhCSsRGIkg_yUeh1PyCFvE_jfhnkA",
-    "price": "$1.00",
+    "price": "None",
     "listings": 18
   },
   {
@@ -4210,7 +4212,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Shine Boots (Legendary) A",
     "type": "Boots - Lv. 65",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhCSsRGIkg_yUeh1PyCFvE_jfhnkA",
-    "price": "$0.26",
+    "price": "None",
     "listings": 16
   },
   {
@@ -4218,7 +4220,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Shine Gloves (Arcana) A",
     "type": "Gloves - Lv. 65",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsI1BSsZQLiI5y0eg0ebcCPhXx04wyoo",
-    "price": "$5.54",
+    "price": "None",
     "listings": 2
   },
   {
@@ -4226,7 +4228,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Shine Gloves (Immortal) A",
     "type": "Gloves - Lv. 65",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsI1BSsZQLiI5y0eg0ebcCPhXx04wyoo",
-    "price": "$1.15",
+    "price": "None",
     "listings": 8
   },
   {
@@ -4234,7 +4236,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Shine Gloves (Legendary) A",
     "type": "Gloves - Lv. 65",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsI1BSsZQLiI5y0eg0ebcCPhXx04wyoo",
-    "price": "$0.26",
+    "price": "None",
     "listings": 30
   },
   {
@@ -4242,7 +4244,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Short Bolt (Immortal) A",
     "type": "Bolt - Lv. 1",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhCScRKSUk8yUehzqKcH6zIh5Ww",
-    "price": "$2.71",
+    "price": "None",
     "listings": 2
   },
   {
@@ -4250,7 +4252,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Short Bolt (Legendary) A",
     "type": "Bolt - Lv. 1",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhCScRKSUk8yUehzqKcH6zIh5Ww",
-    "price": "$1.34",
+    "price": "None",
     "listings": 3
   },
   {
@@ -4258,7 +4260,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Short Bow (Immortal) A",
     "type": "Bow - Lv. 1",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhCUs8mTE08yUa-kLyVRs5qN5w",
-    "price": "$0.19",
+    "price": "None",
     "listings": 15
   },
   {
@@ -4266,7 +4268,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Short Bow (Legendary) A",
     "type": "Bow - Lv. 1",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhCUs8mTE08yUa-kLyVRs5qN5w",
-    "price": "$0.08",
+    "price": "None",
     "listings": 41
   },
   {
@@ -4274,7 +4276,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Short Crossbow (Immortal) A",
     "type": "Crossbow - Lv. 1",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIlfSsNGPzJbpkSk0OLCSbhANibbMyKndg",
-    "price": "$0.98",
+    "price": "None",
     "listings": 4
   },
   {
@@ -4282,7 +4284,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Short Crossbow (Legendary) A",
     "type": "Crossbow - Lv. 1",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIlfSsNGPzJbpkSk0OLCSbhANibbMyKndg",
-    "price": "$0.17",
+    "price": "None",
     "listings": 17
   },
   {
@@ -4290,7 +4292,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Short Hatchet (Legendary) A",
     "type": "Hatchet - Lv. 1",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIJMUdNdOClTzUKg0OLDVuZePw8qeAjT",
-    "price": "$0.26",
+    "price": "None",
     "listings": 4
   },
   {
@@ -4298,7 +4300,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Silver Amulet (Immortal) A",
     "type": "Amulet - Lv. 10",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItAUNxQKSI6yUeg0OHcCPhXHPkUH5g",
-    "price": "$2.30",
+    "price": "None",
     "listings": 11
   },
   {
@@ -4306,7 +4308,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Silver Amulet (Legendary) A",
     "type": "Amulet - Lv. 10",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItAUNxQKSI6yUeg0OHcCPhXHPkUH5g",
-    "price": "$1.38",
+    "price": "None",
     "listings": 20
   },
   {
@@ -4314,7 +4316,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Silver Bracer (Immortal) A",
     "type": "Bracer - Lv. 10",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhfRNNQLyI6ykeg0OHcCPhXclT9oI0",
-    "price": "$1.24",
+    "price": "None",
     "listings": 18
   },
   {
@@ -4322,7 +4324,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Silver Bracer (Legendary) A",
     "type": "Bracer - Lv. 10",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhfRNNQLyI6ykeg0OHcCPhXclT9oI0",
-    "price": "$0.42",
+    "price": "None",
     "listings": 31
   },
   {
@@ -4330,7 +4332,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Silver Earring (Immortal) A",
     "type": "Earing - Lv. 10",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsI9MV9lbOiI6yEeg0OHcCPhXaVO_N0I",
-    "price": "$1.31",
+    "price": "None",
     "listings": 18
   },
   {
@@ -4338,7 +4340,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Silver Earring (Legendary) A",
     "type": "Earing - Lv. 10",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsI9MV9lbOiI6yEeg0OHcCPhXaVO_N0I",
-    "price": "$0.61",
+    "price": "None",
     "listings": 39
   },
   {
@@ -4346,7 +4348,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Silver Ingot",
     "type": "Crafting Material",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTEk-yUehzqKcH-2mFwsN",
-    "price": "$0.07",
+    "price": "None",
     "listings": 1519
   },
   {
@@ -4354,7 +4356,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Silver Ring (Immortal) A",
     "type": "Ring - Lv. 10",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJhES9dKS088yUejzqKcH8o0-3tp",
-    "price": "$1.75",
+    "price": "None",
     "listings": 25
   },
   {
@@ -4362,7 +4364,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Silver Ring (Legendary) A",
     "type": "Ring - Lv. 10",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJhES9dKS088yUejzqKcH8o0-3tp",
-    "price": "$0.84",
+    "price": "None",
     "listings": 31
   },
   {
@@ -4370,7 +4372,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Skeleton Bone",
     "type": "Engraving Material",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTE88yUeizqKcH-mix536",
-    "price": "$0.03",
+    "price": "None",
     "listings": 2667
   },
   {
@@ -4378,7 +4380,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Skull",
     "type": "Engraving Material",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTE8_yUehzqKcH1D5mdoN",
-    "price": "$0.27",
+    "price": "None",
     "listings": 373
   },
   {
@@ -4386,7 +4388,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Slime Jelly",
     "type": "Engraving Material",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTE88yUejzqKcH-bZ6kdS",
-    "price": "$0.03",
+    "price": "None",
     "listings": 2650
   },
   {
@@ -4394,7 +4396,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Soulstone - Hell",
     "type": "Soulstone",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTEQ8yUejzqKcH19gLfqH",
-    "price": "$0.14",
+    "price": "None",
     "listings": 9211
   },
   {
@@ -4402,7 +4404,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Soulstone - Nightmare",
     "type": "Soulstone",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTEQ8yUeizqKcH5bPx4sH",
-    "price": "$0.12",
+    "price": "None",
     "listings": 6129
   },
   {
@@ -4410,7 +4412,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Soulstone - Normal",
     "type": "Soulstone",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTEQ8yUehzqKcH5CC7Jxm",
-    "price": "$0.08",
+    "price": "None",
     "listings": 8069
   },
   {
@@ -4418,7 +4420,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Soulstone - Torment",
     "type": "Soulstone",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTEQ8yUekzqKcHyTvp7Ey",
-    "price": "$0.23",
+    "price": "None",
     "listings": 7038
   },
   {
@@ -4426,7 +4428,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Spider Silk",
     "type": "Engraving Material",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTE89yUeizqKcHxn3qDOR",
-    "price": "$0.05",
+    "price": "None",
     "listings": 82
   },
   {
@@ -4434,7 +4436,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Stardust Ingot",
     "type": "Crafting Material",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTEk_yUehzqKcH4B_KzXB",
-    "price": "$0.15",
+    "price": "None",
     "listings": 1247
   },
   {
@@ -4442,7 +4444,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Starlight Sapphire",
     "type": "Decoration Material",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTEw5yUekzqKcH_ezFaja",
-    "price": "$0.42",
+    "price": "None",
     "listings": 383
   },
   {
@@ -4450,7 +4452,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Steel Axe (Arcana) A",
     "type": "Axe - Lv. 15",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItVQM8mSE08yUO-kLyVWdqGWPc",
-    "price": "$2.49",
+    "price": "None",
     "listings": 2
   },
   {
@@ -4458,7 +4460,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Steel Axe (Immortal) A",
     "type": "Axe - Lv. 15",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItVQM8mSE08yUO-kLyVWdqGWPc",
-    "price": "$0.70",
+    "price": "None",
     "listings": 23
   },
   {
@@ -4466,7 +4468,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Steel Axe (Legendary) A",
     "type": "Axe - Lv. 15",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItVQM8mSE08yUO-kLyVWdqGWPc",
-    "price": "$0.14",
+    "price": "None",
     "listings": 34
   },
   {
@@ -4474,7 +4476,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Steel Hatchet (Arcana) A",
     "type": "Hatchet - Lv. 15",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIJMUdNdOClTzUKg0OLGVuZePyh5PLPM",
-    "price": "$4.98",
+    "price": "None",
     "listings": 1
   },
   {
@@ -4482,7 +4484,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Steel Hatchet (Legendary) A",
     "type": "Hatchet - Lv. 15",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIJMUdNdOClTzUKg0OLGVuZePyh5PLPM",
-    "price": "$1.38",
+    "price": "None",
     "listings": 4
   },
   {
@@ -4490,7 +4492,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Steel Scepter (Arcana) A",
     "type": "Scepter - Lv. 15",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlOQMBBOC9TykSg0OLGVuZePz9BcabE",
-    "price": "$1.54",
+    "price": "None",
     "listings": 20
   },
   {
@@ -4498,7 +4500,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Steel Scepter (Immortal) A",
     "type": "Scepter - Lv. 15",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlOQMBBOC9TykSg0OLGVuZePz9BcabE",
-    "price": "$0.24",
+    "price": "None",
     "listings": 123
   },
   {
@@ -4506,7 +4508,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Steel Scepter (Legendary) A",
     "type": "Scepter - Lv. 15",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlOQMBBOC9TykSg0OLGVuZePz9BcabE",
-    "price": "$0.06",
+    "price": "None",
     "listings": 237
   },
   {
@@ -4514,7 +4516,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Stone",
     "type": "Crafting Material",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTEk8yUeizqKcH5diC3O5",
-    "price": "$0.06",
+    "price": "None",
     "listings": 830
   },
   {
@@ -4522,7 +4524,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Sunstone",
     "type": "Crafting Material",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTEk7yUeizqKcHwoXLTs0",
-    "price": "$11.10",
+    "price": "None",
     "listings": 1
   },
   {
@@ -4530,7 +4532,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Tempest Staff (Arcana) A",
     "type": "Staff - Lv. 80",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlZRNZTIk4-yUeh1_yCFvFAIV78oQ",
-    "price": "$5.54",
+    "price": "None",
     "listings": 1
   },
   {
@@ -4538,7 +4540,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Tempest Staff (Immortal) A",
     "type": "Staff - Lv. 80",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlZRNZTIk4-yUeh1_yCFvFAIV78oQ",
-    "price": "$1.62",
+    "price": "None",
     "listings": 27
   },
   {
@@ -4546,7 +4548,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Tempest Staff (Legendary) A",
     "type": "Staff - Lv. 80",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlZRNZTIk4-yUeh1_yCFvFAIV78oQ",
-    "price": "$1.03",
+    "price": "None",
     "listings": 28
   },
   {
@@ -4554,7 +4556,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Thunderstone",
     "type": "Crafting Material",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTEk4yUeizqKcH7GMk-FS",
-    "price": "$0.11",
+    "price": "None",
     "listings": 63
   },
   {
@@ -4562,7 +4564,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Tiger Eye Earring (Arcana) A",
     "type": "Earing - Lv. 40",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsI9MV9lbOiI6yEeg0OvcCPhXkF8v7E4",
-    "price": "$4.84",
+    "price": "None",
     "listings": 3
   },
   {
@@ -4570,7 +4572,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Tiger Eye Earring (Immortal) A",
     "type": "Earing - Lv. 40",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsI9MV9lbOiI6yEeg0OvcCPhXkF8v7E4",
-    "price": "$3.45",
+    "price": "None",
     "listings": 9
   },
   {
@@ -4578,7 +4580,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Tiger Eye Earring (Legendary) A",
     "type": "Earing - Lv. 40",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsI9MV9lbOiI6yEeg0OvcCPhXkF8v7E4",
-    "price": "$1.17",
+    "price": "None",
     "listings": 14
   },
   {
@@ -4586,7 +4588,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Titan Marrow",
     "type": "Engraving Material",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTE86yUejzqKcH-cYjgFU",
-    "price": "$3.11",
+    "price": "None",
     "listings": 13
   },
   {
@@ -4594,7 +4596,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Topaz",
     "type": "Decoration Material",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTEw-yUejzqKcH_Ra0Nr4",
-    "price": "$0.04",
+    "price": "None",
     "listings": 116
   },
   {
@@ -4602,7 +4604,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Turquoise",
     "type": "Decoration Material",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTEw_yUejzqKcH7vcACro",
-    "price": "$0.15",
+    "price": "None",
     "listings": 727
   },
   {
@@ -4610,7 +4612,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Twilight Amethyst",
     "type": "Decoration Material",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTEw6yUekzqKcH8HCWI6_",
-    "price": "$5.13",
+    "price": "None",
     "listings": 12
   },
   {
@@ -4618,7 +4620,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Vengeance Sword (Arcana) A",
     "type": "Sword - Lv. 65",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlaSsJRIk48yUeh1PyCFvFjfF0I7w",
-    "price": "$3.53",
+    "price": "None",
     "listings": 11
   },
   {
@@ -4626,7 +4628,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Vengeance Sword (Beyond) A",
     "type": "Sword - Lv. 65",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlaSsJRIk48yUeh1PyCFvFjfF0I7w",
-    "price": "$8.13",
+    "price": "None",
     "listings": 5
   },
   {
@@ -4634,7 +4636,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Vengeance Sword (Immortal) A",
     "type": "Sword - Lv. 65",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlaSsJRIk48yUeh1PyCFvFjfF0I7w",
-    "price": "$0.78",
+    "price": "None",
     "listings": 24
   },
   {
@@ -4642,7 +4644,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Vengeance Sword (Legendary) A",
     "type": "Sword - Lv. 65",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlaSsJRIk48yUeh1PyCFvFjfF0I7w",
-    "price": "$0.28",
+    "price": "None",
     "listings": 32
   },
   {
@@ -4650,7 +4652,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Void Ichor",
     "type": "Engraving Material",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTE86yUekzqKcH6Z-opbH",
-    "price": "$5.57",
+    "price": "None",
     "listings": 20
   },
   {
@@ -4658,7 +4660,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Void Iron",
     "type": "Crafting Material",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTEk_yUeizqKcHxmHpgxD",
-    "price": "$0.11",
+    "price": "None",
     "listings": 1158
   },
   {
@@ -4666,7 +4668,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Void Opal",
     "type": "Decoration Material",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTEw6yUehzqKcH9AR9-QI",
-    "price": "$10.77",
+    "price": "None",
     "listings": 54
   },
   {
@@ -4674,7 +4676,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Void Staff (Arcana) A",
     "type": "Staff - Lv. 50",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlZRNZTIk4-yUeh0fyCFvH12Iir3g",
-    "price": "$5.30",
+    "price": "None",
     "listings": 4
   },
   {
@@ -4682,7 +4684,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Void Staff (Immortal) A",
     "type": "Staff - Lv. 50",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlZRNZTIk4-yUeh0fyCFvH12Iir3g",
-    "price": "$0.85",
+    "price": "None",
     "listings": 10
   },
   {
@@ -4690,7 +4692,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Void Staff (Legendary) A",
     "type": "Staff - Lv. 50",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlZRNZTIk4-yUeh0fyCFvH12Iir3g",
-    "price": "$0.26",
+    "price": "None",
     "listings": 28
   },
   {
@@ -4698,7 +4700,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "War Armor (Arcana) A",
     "type": "Armor - Lv. 30",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItfSN9HIkg9yUeg1_yCFvFPcJMXJw",
-    "price": "$3.79",
+    "price": "None",
     "listings": 8
   },
   {
@@ -4706,7 +4708,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "War Armor (Beyond) A",
     "type": "Armor - Lv. 30",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItfSN9HIkg9yUeg1_yCFvFPcJMXJw",
-    "price": "$9.26",
+    "price": "None",
     "listings": 5
   },
   {
@@ -4714,7 +4716,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "War Armor (Immortal) A",
     "type": "Armor - Lv. 30",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItfSN9HIkg9yUeg1_yCFvFPcJMXJw",
-    "price": "$0.74",
+    "price": "None",
     "listings": 37
   },
   {
@@ -4722,7 +4724,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "War Armor (Legendary) A",
     "type": "Armor - Lv. 30",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItfSN9HIkg9yUeg1_yCFvFPcJMXJw",
-    "price": "$0.15",
+    "price": "None",
     "listings": 42
   },
   {
@@ -4730,7 +4732,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "War Axe (Arcana) A",
     "type": "Axe - Lv. 20",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItVQM8mSE08yUK-kLyVpZQqWZM",
-    "price": "$5.26",
+    "price": "None",
     "listings": 2
   },
   {
@@ -4738,7 +4740,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "War Axe (Immortal) A",
     "type": "Axe - Lv. 20",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItVQM8mSE08yUK-kLyVpZQqWZM",
-    "price": "$0.62",
+    "price": "None",
     "listings": 23
   },
   {
@@ -4746,7 +4748,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "War Axe (Legendary) A",
     "type": "Axe - Lv. 20",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItVQM8mSE08yUK-kLyVpZQqWZM",
-    "price": "$0.12",
+    "price": "None",
     "listings": 48
   },
   {
@@ -4754,7 +4756,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "War Boots (Arcana) A",
     "type": "Boots - Lv. 30",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhCSsRGIkg_yUeg1_yCFvECe6wQxQ",
-    "price": "$3.99",
+    "price": "None",
     "listings": 8
   },
   {
@@ -4762,7 +4764,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "War Boots (Beyond) A",
     "type": "Boots - Lv. 30",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhCSsRGIkg_yUeg1_yCFvECe6wQxQ",
-    "price": "$7.19",
+    "price": "None",
     "listings": 4
   },
   {
@@ -4770,7 +4772,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "War Boots (Immortal) A",
     "type": "Boots - Lv. 30",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhCSsRGIkg_yUeg1_yCFvECe6wQxQ",
-    "price": "$0.73",
+    "price": "None",
     "listings": 27
   },
   {
@@ -4778,7 +4780,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "War Boots (Legendary) A",
     "type": "Boots - Lv. 30",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhCSsRGIkg_yUeg1_yCFvECe6wQxQ",
-    "price": "$0.18",
+    "price": "None",
     "listings": 36
   },
   {
@@ -4786,7 +4788,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "War Bow (Arcana) A",
     "type": "Bow - Lv. 20",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhCUs8mTE08yUK-kLyVKbrfk38",
-    "price": "$4.30",
+    "price": "None",
     "listings": 16
   },
   {
@@ -4794,7 +4796,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "War Bow (Immortal) A",
     "type": "Bow - Lv. 20",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhCUs8mTE08yUK-kLyVKbrfk38",
-    "price": "$0.94",
+    "price": "None",
     "listings": 106
   },
   {
@@ -4802,7 +4804,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "War Bow (Legendary) A",
     "type": "Bow - Lv. 20",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhCUs8mTE08yUK-kLyVKbrfk38",
-    "price": "$0.11",
+    "price": "None",
     "listings": 304
   },
   {
@@ -4810,7 +4812,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "War Gloves (Arcana) A",
     "type": "Gloves - Lv. 30",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsI1BSsZQLiI5y0eg0OXcCPhX96Wmmc4",
-    "price": "$3.60",
+    "price": "None",
     "listings": 11
   },
   {
@@ -4818,7 +4820,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "War Gloves (Beyond) A",
     "type": "Gloves - Lv. 30",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsI1BSsZQLiI5y0eg0OXcCPhX96Wmmc4",
-    "price": "$8.63",
+    "price": "None",
     "listings": 3
   },
   {
@@ -4826,7 +4828,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "War Gloves (Immortal) A",
     "type": "Gloves - Lv. 30",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsI1BSsZQLiI5y0eg0OXcCPhX96Wmmc4",
-    "price": "$1.04",
+    "price": "None",
     "listings": 27
   },
   {
@@ -4834,7 +4836,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "War Gloves (Legendary) A",
     "type": "Gloves - Lv. 30",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsI1BSsZQLiI5y0eg0OXcCPhX96Wmmc4",
-    "price": "$0.14",
+    "price": "None",
     "listings": 52
   },
   {
@@ -4842,7 +4844,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "War Hatchet (Immortal) A",
     "type": "Hatchet - Lv. 20",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIJMUdNdOClTzUKg0OLHVuZePw3NqPxk",
-    "price": "$2.71",
+    "price": "None",
     "listings": 3
   },
   {
@@ -4850,7 +4852,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "War Hatchet (Legendary) A",
     "type": "Hatchet - Lv. 20",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIJMUdNdOClTzUKg0OLHVuZePw3NqPxk",
-    "price": "$2.53",
+    "price": "None",
     "listings": 2
   },
   {
@@ -4858,7 +4860,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "War Helmet (Arcana) A",
     "type": "Helmet - Lv. 30",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIJISd1QKSI5yUeg0OXcCPhXY1Y7hD4",
-    "price": "$2.99",
+    "price": "None",
     "listings": 13
   },
   {
@@ -4866,7 +4868,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "War Helmet (Beyond) A",
     "type": "Helmet - Lv. 30",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIJISd1QKSI5yUeg0OXcCPhXY1Y7hD4",
-    "price": "$5.49",
+    "price": "None",
     "listings": 6
   },
   {
@@ -4874,7 +4876,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "War Helmet (Immortal) A",
     "type": "Helmet - Lv. 30",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIJISd1QKSI5yUeg0OXcCPhXY1Y7hD4",
-    "price": "$0.65",
+    "price": "None",
     "listings": 25
   },
   {
@@ -4882,7 +4884,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "War Helmet (Legendary) A",
     "type": "Helmet - Lv. 30",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIJISd1QKSI5yUeg0OXcCPhXY1Y7hD4",
-    "price": "$0.15",
+    "price": "None",
     "listings": 67
   },
   {
@@ -4890,7 +4892,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "War Shield (Arcana) A",
     "type": "Shield - Lv. 30",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlFTNVZOSI4yUeg0OXcCPhXqhPKm2k",
-    "price": "$2.23",
+    "price": "None",
     "listings": 8
   },
   {
@@ -4898,7 +4900,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "War Shield (Beyond) A",
     "type": "Shield - Lv. 30",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlFTNVZOSI4yUeg0OXcCPhXqhPKm2k",
-    "price": "$6.02",
+    "price": "None",
     "listings": 2
   },
   {
@@ -4906,7 +4908,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "War Shield (Immortal) A",
     "type": "Shield - Lv. 30",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlFTNVZOSI4yUeg0OXcCPhXqhPKm2k",
-    "price": "$0.37",
+    "price": "None",
     "listings": 30
   },
   {
@@ -4914,7 +4916,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "War Shield (Legendary) A",
     "type": "Shield - Lv. 30",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlFTNVZOSI4yUeg0OXcCPhXqhPKm2k",
-    "price": "$0.13",
+    "price": "None",
     "listings": 64
   },
   {
@@ -4922,7 +4924,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "War Tome (Arcana) A",
     "type": "Tome - Lv. 30",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJ5CSNVKSU48yUenzqKcH57T8ExQ",
-    "price": "$5.00",
+    "price": "None",
     "listings": 3
   },
   {
@@ -4930,7 +4932,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "War Tome (Beyond) A",
     "type": "Tome - Lv. 30",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJ5CSNVKSU48yUenzqKcH57T8ExQ",
-    "price": "$29.30",
+    "price": "None",
     "listings": 3
   },
   {
@@ -4938,7 +4940,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "War Tome (Immortal) A",
     "type": "Tome - Lv. 30",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJ5CSNVKSU48yUenzqKcH57T8ExQ",
-    "price": "$2.59",
+    "price": "None",
     "listings": 8
   },
   {
@@ -4946,7 +4948,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "War Tome (Legendary) A",
     "type": "Tome - Lv. 30",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJ5CSNVKSU48yUenzqKcH57T8ExQ",
-    "price": "$0.52",
+    "price": "None",
     "listings": 30
   },
   {
@@ -4954,7 +4956,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Warrior's Tome (Arcana) A",
     "type": "Tome - Lv. 65",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJ5CSNVKSU48yUakzqKcHwEnwhoR",
-    "price": "$5.54",
+    "price": "None",
     "listings": 2
   },
   {
@@ -4962,7 +4964,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Warrior's Tome (Immortal) A",
     "type": "Tome - Lv. 65",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJ5CSNVKSU48yUakzqKcHwEnwhoR",
-    "price": "$2.49",
+    "price": "None",
     "listings": 4
   },
   {
@@ -4970,7 +4972,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Warrior's Tome (Legendary) A",
     "type": "Tome - Lv. 65",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJ5CSNVKSU48yUakzqKcHwEnwhoR",
-    "price": "$0.87",
+    "price": "None",
     "listings": 13
   },
   {
@@ -4978,7 +4980,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Witch Staff (Arcana) A",
     "type": "Staff - Lv. 15",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlZRNZTIk4-yUeg1PyCFvHlezTlDg",
-    "price": "$1.39",
+    "price": "None",
     "listings": 14
   },
   {
@@ -4986,7 +4988,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Witch Staff (Immortal) A",
     "type": "Staff - Lv. 15",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlZRNZTIk4-yUeg1PyCFvHlezTlDg",
-    "price": "$0.23",
+    "price": "None",
     "listings": 98
   },
   {
@@ -4994,7 +4996,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Witch Staff (Legendary) A",
     "type": "Staff - Lv. 15",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlZRNZTIk4-yUeg1PyCFvHlezTlDg",
-    "price": "$0.06",
+    "price": "None",
     "listings": 362
   },
   {
@@ -5002,7 +5004,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Wolf Fang",
     "type": "Engraving Material",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTE89yUehzqKcH5e444t4",
-    "price": "$0.03",
+    "price": "None",
     "listings": 451
   },
   {
@@ -5010,7 +5012,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Wood",
     "type": "Crafting Material",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTEk8yUehzqKcH8g_E54J",
-    "price": "$0.03",
+    "price": "None",
     "listings": 5348
   },
   {
@@ -5018,7 +5020,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Wooden Armor (Immortal) A",
     "type": "Armor - Lv. 1",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItfSN9HIkg9yUeg0fyCFvFGGUuVGA",
-    "price": "$0.18",
+    "price": "None",
     "listings": 34
   },
   {
@@ -5026,7 +5028,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Wooden Armor (Legendary) A",
     "type": "Armor - Lv. 1",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItfSN9HIkg9yUeg0fyCFvFGGUuVGA",
-    "price": "$0.08",
+    "price": "None",
     "listings": 71
   },
   {
@@ -5034,7 +5036,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Wooden Arrow (Immortal) A",
     "type": "Arrow - Lv. 1",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItfV99CIkk9yUeg0fyCFvETwHvEHQ",
-    "price": "$0.57",
+    "price": "None",
     "listings": 16
   },
   {
@@ -5042,7 +5044,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Wooden Arrow (Legendary) A",
     "type": "Arrow - Lv. 1",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItfV99CIkk9yUeg0fyCFvETwHvEHQ",
-    "price": "$0.29",
+    "price": "None",
     "listings": 14
   },
   {
@@ -5050,7 +5052,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Wooden Axe (Immortal) A",
     "type": "Axe - Lv. 1",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItVQM8mSE08yUa-kLyVicUxvnw",
-    "price": "$1.62",
+    "price": "None",
     "listings": 11
   },
   {
@@ -5058,7 +5060,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Wooden Axe (Legendary) A",
     "type": "Axe - Lv. 1",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItVQM8mSE08yUa-kLyVicUxvnw",
-    "price": "$0.12",
+    "price": "None",
     "listings": 14
   },
   {
@@ -5066,7 +5068,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Wooden Boots (Immortal) A",
     "type": "Boots - Lv. 1",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhCSsRGIkg_yUeg0fyCFvFJsI2YzQ",
-    "price": "$0.16",
+    "price": "None",
     "listings": 25
   },
   {
@@ -5074,7 +5076,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Wooden Boots (Legendary) A",
     "type": "Boots - Lv. 1",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhCSsRGIkg_yUeg0fyCFvFJsI2YzQ",
-    "price": "$0.09",
+    "price": "None",
     "listings": 28
   },
   {
@@ -5082,7 +5084,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Wooden Helmet (Immortal) A",
     "type": "Helmet - Lv. 1",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIJISd1QKSI5yUeg0OPcCPhXRduPEjo",
-    "price": "$0.18",
+    "price": "None",
     "listings": 28
   },
   {
@@ -5090,7 +5092,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Wooden Helmet (Legendary) A",
     "type": "Helmet - Lv. 1",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIJISd1QKSI5yUeg0OPcCPhXRduPEjo",
-    "price": "$0.07",
+    "price": "None",
     "listings": 42
   },
   {
@@ -5098,7 +5100,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Wooden Shield (Immortal) A",
     "type": "Shield - Lv. 5",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlFTNVZOSI4yUeg0ODcCPhXDrJ3Jbk",
-    "price": "$0.72",
+    "price": "None",
     "listings": 14
   },
   {
@@ -5106,7 +5108,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Wooden Shield (Legendary) A",
     "type": "Shield - Lv. 5",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlFTNVZOSI4yUeg0ODcCPhXDrJ3Jbk",
-    "price": "$0.34",
+    "price": "None",
     "listings": 28
   },
   {
@@ -5114,7 +5116,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Wooden Staff (Immortal) A",
     "type": "Staff - Lv. 1",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlZRNZTIk4-yUeg0fyCFvGCzjwbjg",
-    "price": "$0.16",
+    "price": "None",
     "listings": 20
   },
   {
@@ -5122,7 +5124,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Wooden Staff (Legendary) A",
     "type": "Staff - Lv. 1",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlZRNZTIk4-yUeg0fyCFvGCzjwbjg",
-    "price": "$0.07",
+    "price": "None",
     "listings": 43
   },
   {
@@ -5130,7 +5132,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Wraith Essence",
     "type": "Engraving Material",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTE86yUehzqKcHybpqMQD",
-    "price": "$3.11",
+    "price": "None",
     "listings": 19
   },
   {
@@ -5138,7 +5140,7 @@ window.OFFICIAL_MARKET_ITEMS=[
     "name": "Wyvern Claw",
     "type": "Engraving Material",
     "icon": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTE84yUeizqKcH7YICqC4",
-    "price": "$0.24",
+    "price": "None",
     "listings": 333
   }
 ];

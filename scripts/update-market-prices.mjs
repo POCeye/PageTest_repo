@@ -3,6 +3,7 @@ import { readFile, writeFile } from 'node:fs/promises';
 const INDEX_PATH = new URL('../index.html', import.meta.url);
 const APP_ID = '3678970';
 const CURRENCY = process.env.STEAM_CURRENCY || '8';
+const COUNTRY = process.env.STEAM_COUNTRY || 'JP';
 const DELAY_MS = Number(process.env.PRICE_FETCH_DELAY_MS || 2500);
 const LIMIT = Number(process.env.PRICE_FETCH_LIMIT || 0);
 
@@ -26,6 +27,7 @@ async function fetchLowestPrice(marketName) {
   const params = new URLSearchParams({
     appid: APP_ID,
     currency: CURRENCY,
+    country: COUNTRY,
     market_hash_name: marketName,
   });
   const url = `https://steamcommunity.com/market/priceoverview/?${params}`;
